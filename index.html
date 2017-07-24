@@ -1,0 +1,180 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Cotización</title>
+    <link rel="stylesheet" type="text/css" href="css/materialize.css">
+    <link rel="stylesheet" type="text/css" href="css/datatable.css">
+    <link rel="stylesheet" type="text/css" href="css/estilo.css">
+    
+</head>
+<body>
+    <center>
+        <nav>
+            <img src="img/logo.jpg" alt="INCO" class="logoEncabezado">
+        </nav>
+    <div class="row" id="pruebaImprime">
+        <div class="col s12" id="respuesta"></div>
+        <form class="col s12">
+            <div class="row">
+                <div class="input-field col s3 offset-s2">
+                    <i class="material-icons prefix"><img class="icono" src="img/ico/form/usuario.png" alt="Codigo"></i>
+                    <input id="nombre" type="text" class="validate">
+                    <label for="nombre">Nombre</label>
+                </div>
+                <div class="input-field col s3 offset-s2">
+                    <i class="material-icons prefix"><img class="icono" src="img/ico/form/nit.png" alt="Codigo"></i>
+                    <input id="nit" type="text" class="validate">
+                    <label for="nit">NIT</label>
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="input-field col s3 offset-s2">
+                    <i class="material-icons prefix"><img class="icono" src="img/ico/form/direccion.png" alt="Codigo"></i>
+                    <input id="direccion" type="text" class="validate">
+                    <label for="direccion">Direccion</label>
+                </div>
+                <div class="input-field col s3 offset-s2">
+                    <i class="material-icons prefix"><img class="icono" src="img/ico/form/telefono.png" alt="Codigo"></i>
+                    <input id="telefono" type="text" class="validate">
+                    <label for="telefono">Telefono</label>
+                </div>
+            </div>
+
+            <div class="row">
+                <div id="PrecioCont" class="input-field col s3 offset-s2">
+                    
+                </div>
+                <div class="col s3 offset-s2">
+                    <a id="nuevoProd" class="waves-effect waves-light btn" href="#buscaProducto">Nuevo</a>
+                </div>
+            </div>
+        </form>
+        
+        <div class="col s12">
+            <div class="row">
+                <div class="col s8 offset-s2">
+                    <table class="bordered highlight responsive-table" id="productosCotizar">
+                        <thead>
+                        <tr>
+                            <th><center>Codigo</center></th>
+                            <th><center>Catalogo</center></th>
+                            <th><center>Descripcion</center></th>
+                            <th><center>Unidad</center></th>
+                            <th><center>Cantidad</center></th>
+                            <th><center>Costo</center></th>
+                            <th><center>Total</center></th>
+                            <th></th>
+                            
+                        </tr>
+                        </thead>
+                        <tbody>
+                        <tr id="rowInicio" style="display:none;">
+                            <td><center></center></td>
+                            <td><center></center></td>
+                            <td><center></center></td>
+                            <td><center></center></td>
+                            <td><center></center></td>
+                            <td><center></center></td>
+                            <td><center></center></td>
+                            <td><center></center></td>
+                            
+                        </tr>
+                        </tbod>
+
+                    </table>
+                </div>
+                
+                <div class="col s2 offset-s6">
+                   <center> Subotal: </center>
+                </div>
+                <div class="col s2" id="totalCosto">
+                    0
+                </div>
+            </div>
+        </div>
+
+        <div class="col s12">
+            <div class="col s6 offset-s6">
+                 <div class="input-field col s5 offset-s2">
+                    <i class="material-icons prefix"><img class="icono" src="img/ico/form/descuento.png" alt="Codigo"></i>
+                    <input id="descuento" type="number" class="validate" style="text-align:center" value="0">
+                    <label for="descuento">% Descuento</label>
+                </div>
+
+                 <div class="col s1 porciento">
+                  %
+                </div>
+            </div>
+        </div>
+        <div class="col s12">
+            <div class="col s6 offset-s6 red-text">
+                 <div class="col s5 offset-s2" id="descuentoReal">
+                    0
+                </div>
+
+                 <div class="col s1 porciento">
+                 -
+                </div>
+            </div>
+        </div>
+        <div class="col s12 ">
+            <div class="col s3 offset-s7 border_top">
+                 
+                 <div class="col s6">
+                   Total:
+                </div>
+                <div class="col s6" id="totalSub">
+                   Q0.00
+                </div>
+            </div>
+        </div>
+        <div class="col s12">
+                    <a id="imprimir" class="waves-effect waves-light btn">Imprimir</a>
+        </div>
+    </div>
+    </center>
+    <!-- Modal Trigger -->
+ 
+
+  <!-- Modal Structure -->
+  <div id="buscaProducto" class="modal bottom-sheet">
+    <div class="modal-content">
+      <h4>Productos</h4>
+     
+    <div class="row">
+      <div class="col s12" id="contenedorProds">
+        <table id="tablaProds" class="display" cellspacing="0" width="100%">
+        <thead>
+            <tr>
+                <th><center>Codigo</center></th>
+                <th><center>Catalogo</center></th>
+                <th><center>Descripcion</center></th>
+                <th><center>Unidad</center></th>
+                <th><center>Costo</center></th>
+                <th></th>
+            </tr>
+        </thead>
+        
+    </table>
+      </div>
+    </div>
+    <div class="modal-footer">
+      <a href="" class="modal-action modal-close waves-effect waves-green btn-flat">Aceptar</a>
+    </div>
+  </div>
+    
+
+  
+    <script type="text/javascript" src="js/jquery-3.2.1.js"></script>
+    <script type="text/javascript" src="js/materialize.js"></script>
+    <script type="text/javascript" src="js/datatable.js"></script>
+    <script type="text/javascript" src="js/ajax.js"></script>
+    <script type="text/javascript" src="js/scripts.js"></script>
+    <script type="text/javascript" src="js/stateChange.js"></script>
+    <script type="text/javascript" src="js/impresion.js"></script>
+</body>
+</html>

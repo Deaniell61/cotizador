@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" standalone="yes"?>
+<List>
+  
+  <ListaPrecio>
+    <Lista>01</Lista>
+    <Descripcion>Tienda</Descripcion>
+    <Porcentaje>0.45</Porcentaje>
+  </ListaPrecio>
+  
+  <ListaPrecio>
+    <Lista>02</Lista>
+    <Descripcion>Industria</Descripcion>
+    <Porcentaje>0.30</Porcentaje>
+  </ListaPrecio>
+  
+  <ListaPrecio>
+    <Lista>03</Lista>
+    <Descripcion>Ferreteria</Descripcion>
+    <Porcentaje>0.40</Porcentaje>
+  </ListaPrecio>
+
+</List>

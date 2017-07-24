@@ -1,0 +1,43 @@
+html,body{
+
+margin:0px;
+width: 100%;
+height:99%;
+
+}
+
+.icono{
+    width: 50px;
+    height: 50px;
+    margin-left: -15px;
+}
+.iconoeditcrud{
+    width: 30px;
+}
+.dataTables_filter{
+    width: 100%;
+}
+.logoEncabezado{
+    width: 30%;
+    height: 100%;
+    float: left;
+}
+.logoEncabezadoprint{
+    width: 40%;
+    height: 100%;
+    float: left;
+}
+.iconSelect{
+    float: left;
+    margin-left: -48%;
+}
+.border_top{
+    border-top: solid;
+}
+.porciento{
+     font-size: 30px;
+    vertical-align: bottom;
+    text-align: left;
+    padding-top: 3%;
+
+}

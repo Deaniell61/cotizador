@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Producto-List>
+
+  <Producto>
+    <Codigo>ALP-PM001</Codigo>
+    <Catalogo></Catalogo>
+    <Descripcion>Poste de madera para alumbrado público</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>600.00</Costo>
+  </Producto>
+
+  <Producto>
+    <Codigo>EPC-ACC019</Codigo>
+    <Catalogo>E11</Catalogo>
+    <Descripcion>Ducha lava ojos de acero inoxidable</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>4720.00</Costo>
+  </Producto>
+
+  <Producto>
+    <Codigo>EPP-MA028</Codigo>
+    <Catalogo>G221</Catalogo>
+    <Descripcion>Guante de piel de res corto, color gris</Descripcion>
+    <Unimed>Par</Unimed>
+    <Costo>34.00</Costo>
+  </Producto>
+
+  <Producto>
+    <Codigo>MAT-017</Codigo>
+    <Catalogo></Catalogo>
+    <Descripcion>Cable forrado eléctrico tsj triplex</Descripcion>
+    <Unimed>Libras</Unimed>
+    <Costo>4.75</Costo>
+  </Producto>
+
+</Producto-List>

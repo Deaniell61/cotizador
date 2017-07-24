@@ -1,0 +1,53 @@
+<script>
+urls = location + '';
+urls = urls.indexOf("?");
+if(urls == -1){
+   // window.close()
+}
+cadVariables = location.search.substring(1,location.search.length);
+arrVariables = cadVariables.split("&");
+var variable = ''
+for (i=0; i<arrVariables.length; i++) {
+  arrVariableActual = arrVariables[i].split("=");
+  if (isNaN(parseFloat(arrVariableActual[1]))){
+    eval(arrVariableActual[0]+"='"+unescape(arrVariableActual[1])+"';");
+  }else{
+    eval(arrVariableActual[0]+"="+arrVariableActual[1]+";");}
+
+
+   variable = arrVariableActual[1]
+}
+</script>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>.</title>
+    
+    <link rel="stylesheet" type="text/css" href="css/materialize.css">
+    <link rel="stylesheet" type="text/css" href="css/datatable.css">
+    <link rel="stylesheet" type="text/css" href="css/estilo.css">
+    <script type="text/javascript" src="js/jquery-3.2.1.js"></script>
+    <script type="text/javascript" src="js/materialize.js"></script>
+    <script type="text/javascript" src="js/datatable.js"></script>
+    <script type="text/javascript" src="js/ajax.js"></script>
+    <script type="text/javascript" src="js/scripts.js"></script>
+    <script type="text/javascript" src="js/stateChange.js"></script>
+</head>
+<body>
+    <div id="impresion"></div>
+    <script>
+        if(opener.document.getElementById(variable)){
+            document.getElementById('impresion').innerHTML=opener.document.getElementById(variable).innerHTML;
+            window.print();
+            $(window.print()).ready(function(){
+                opener.document.getElementById(variable).innerHTML='';
+                //window.close()
+            })
+            
+        } 
+    </script>
+</body>
+</html>
