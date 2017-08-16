@@ -12,6 +12,9 @@ $(document).ready(function () {
   $('#descuento').change(function () {
     calculaDescuento(this)
   })
+  $('#limpiar').click(function () {
+    limpiar()
+  })
   comboPrecio('')
 })
 var total = 0
@@ -82,6 +85,18 @@ function llenarProductos () {
   }
 }
 
+function limpiar()
+{
+  $("#productosCotizar tbody").empty()
+  $("#nombre").val('')
+  $("#direccion").val('')
+  $("#nit").val('')
+  $("#telefono").val('')
+  $("#descuento").val('0')
+  $("#descuentoReal").html('Q0.00')
+  $("#totalSub").html('Q0.00')
+  $("#totalCosto").html('<center>Q0.00</center>')
+}
 
 function seleccionarProducto (val) {
   var url = 'base/producto.xml'

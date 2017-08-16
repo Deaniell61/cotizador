@@ -19,11 +19,13 @@ function imprimirCotizacion(){
     var metaTotal = $('#totalSub').html()
     var table = document.getElementById("productosCotizar")
     var num = table.rows.length
-    cuerpo+=encab+'<div class="CuentasTitulo">'+
+    cuerpo+=encab+'<center class="CuentasTitulo">'+
            '<center><h5 style="text-align: left;" class="CuentasTitulo">Cliente: '+(nombre)+'</h5></center>'+
-           '<center><div style="text-align: left;">NIT: '+(nit)+'</div></center>'+
-           '<center><div style="text-align: left;">Direccion: '+direccion+' </div></center>'+
-           '<center><div style="text-align: left;">Telefono: '+telefono+' </div></center>'+
+           '<div class="row">'+
+           '<div style="text-align: left;" class="col s6">NIT: '+(nit)+'</div><div style="text-align: right;" class="col s6">Correo: inconficina@gmail.com</div>'+
+           '<div style="text-align: left;" class="col s6">Direccion: '+direccion+' </div><div style="text-align: right;" class="col s6">Correo: ventasmasivas@gmail.com</div>'+
+           '<div style="text-align: left;" class="col s6">Telefono: '+telefono+' </div><div style="text-align: right;" class="col s6">Tel: 7871-8042 / 5590-5249</div>'+
+           '</div>'+
            '</div>';
            cuerpo+='<div class="deposito">'+
                     '<center><h5>Productos</h5>';
