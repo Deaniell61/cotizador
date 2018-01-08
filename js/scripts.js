@@ -157,36 +157,40 @@ function buscaProductoSel (val) {
           $('#totalCosto').html('<center>' + currency(total + '') + '</center>')
           $('#cantidad' + num).focus()
           $('#cantidad' + num).change(function(){
-            if($('#totalCosto')){
-              total = $('#totalCosto').html().replace('Q', '').replace(',', '').replace('<center>', '').replace('</center>', '')
-              total = parseFloat(total)
-            } else {
-              total = 0
-            }           
-            total = total - parseFloat($('#total' + num).html().replace('Q', '').replace(',', '').replace('<center>', '').replace('</center>', ''))
-            if (total < 0) {
-              total = 0
+            if($('#cantidad' + num).val()!=""){
+              if($('#totalCosto')){
+                total = $('#totalCosto').html().replace('Q', '').replace(',', '').replace('<center>', '').replace('</center>', '')
+                total = parseFloat(total)
+              } else {
+                total = 0
+              }           
+              total = total - parseFloat($('#total' + num).html().replace('Q', '').replace(',', '').replace('<center>', '').replace('</center>', ''))
+              if (total < 0) {
+                total = 0
+              }
+              total = parseFloat(total + "") + (parseFloat($('#costo' + num).html().replace("Q", "").replace(',', '') + '') * parseFloat($('#cantidad' + num).val() + ''))
+              $('#total' + num).html(currency((parseFloat($('#costo' + num).html().replace("Q", "").replace(',', '') + '') * parseFloat($('#cantidad' + num).val() + '')) + ''))
+              $('#totalCosto').html('<center>' + currency(total + '') + '</center>')
+              calculaDescuento(document.getElementById('descuento'))
             }
-            total = parseFloat(total + "") + (parseFloat($('#costo' + num).html().replace("Q", "").replace(',', '') + '') * parseFloat($('#cantidad' + num).val() + ''))
-            $('#total' + num).html(currency((parseFloat($('#costo' + num).html().replace("Q", "").replace(',', '') + '') * parseFloat($('#cantidad' + num).val() + '')) + ''))
-            $('#totalCosto').html('<center>' + currency(total + '') + '</center>')
-            calculaDescuento(document.getElementById('descuento'))
           })
           $('#cantidad' + num).keyup(function(){
-            if($('#totalCosto')){
-              total = $('#totalCosto').html().replace('Q', '').replace(',', '').replace('<center>', '').replace('</center>', '')
-              total = parseFloat(total)
-            } else {
-              total = 0
-            }           
-            total = total - parseFloat($('#total' + num).html().replace('Q', '').replace(',', '').replace('<center>', '').replace('</center>', ''))
-            if (total < 0) {
-              total = 0
+            if($('#cantidad' + num).val()!=""){
+              if($('#totalCosto')){
+                total = $('#totalCosto').html().replace('Q', '').replace(',', '').replace('<center>', '').replace('</center>', '')
+                total = parseFloat(total)
+              } else {
+                total = 0
+              }           
+              total = total - parseFloat($('#total' + num).html().replace('Q', '').replace(',', '').replace('<center>', '').replace('</center>', ''))
+              if (total < 0) {
+                total = 0
+              }
+              total = parseFloat(total + "") + (parseFloat($('#costo' + num).html().replace("Q", "").replace(',', '') + '') * parseFloat($('#cantidad' + num).val() + ''))
+              $('#total' + num).html(currency((parseFloat($('#costo' + num).html().replace("Q", "").replace(',', '') + '') * parseFloat($('#cantidad' + num).val() + '')) + ''))
+              $('#totalCosto').html('<center>' + currency(total + '') + '</center>')
+              calculaDescuento(document.getElementById('descuento'))
             }
-            total = parseFloat(total + "") + (parseFloat($('#costo' + num).html().replace("Q", "").replace(',', '') + '') * parseFloat($('#cantidad' + num).val() + ''))
-            $('#total' + num).html(currency((parseFloat($('#costo' + num).html().replace("Q", "").replace(',', '') + '') * parseFloat($('#cantidad' + num).val() + '')) + ''))
-            $('#totalCosto').html('<center>' + currency(total + '') + '</center>')
-            calculaDescuento(document.getElementById('descuento'))
           })
           calculaDescuento(document.getElementById('descuento'))
           $('.modal').modal('close')

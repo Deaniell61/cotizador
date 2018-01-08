@@ -1,22 +1,1839 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" standalone="yes"?>
 <Producto-List>
-
   <Producto>
-    <Codigo>ALP-PM001</Codigo>
-    <Catalogo></Catalogo>
-    <Descripcion>Poste de madera para alumbrado público</Descripcion>
-    <Unimed>Unidad</Unimed>
-    <Costo>600.00</Costo>
+    <Codigo>EPP-PIE002</Codigo>
+    <Catalogo>P101</Catalogo>
+    <Descripcion>Botas de pvc negras TORO talla 41</Descripcion>
+    <Unimed>Par</Unimed>
+    <Costo>55.00</Costo>
   </Producto>
-
   <Producto>
-    <Codigo>EPC-ACC019</Codigo>
-    <Catalogo>E11</Catalogo>
-    <Descripcion>Ducha lava ojos de acero inoxidable</Descripcion>
+    <Codigo>EPP-MA007</Codigo>
+    <Catalogo>0</Catalogo>
+    <Descripcion>Guante de cuero kevlar para soldar azul TITÁN</Descripcion>
     <Unimed>Unidad</Unimed>
-    <Costo>4720.00</Costo>
+    <Costo>55.00</Costo>
   </Producto>
-
+  <Producto>
+    <Codigo>EPP-MA006</Codigo>
+    <Catalogo>0</Catalogo>
+    <Descripcion>Guante tejido de palma recubierta de látex BEST skinny dip talla L</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>24.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>MAT-001</Codigo>
+    <Catalogo>0</Catalogo>
+    <Descripcion>Cemento Progreso UGC</Descripcion>
+    <Unimed>Quintal</Unimed>
+    <Costo>71.50</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>MAT-002</Codigo>
+    <Catalogo>0</Catalogo>
+    <Descripcion>Arena</Descripcion>
+    <Unimed>Metro 3</Unimed>
+    <Costo>75.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>MAT-003</Codigo>
+    <Catalogo>0</Catalogo>
+    <Descripcion>Agua</Descripcion>
+    <Unimed>Litros</Unimed>
+    <Costo>0.02</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>MAT-005</Codigo>
+    <Catalogo>0</Catalogo>
+    <Descripcion>Gasolina</Descripcion>
+    <Unimed>Galones</Unimed>
+    <Costo>30.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>MAT-004</Codigo>
+    <Catalogo>0</Catalogo>
+    <Descripcion>Piedrin</Descripcion>
+    <Unimed>Metro 3</Unimed>
+    <Costo>170.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>MAT-007</Codigo>
+    <Catalogo>0</Catalogo>
+    <Descripcion>EPP</Descripcion>
+    <Unimed>Metros</Unimed>
+    <Costo>2.50</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>MAT-006</Codigo>
+    <Catalogo>0</Catalogo>
+    <Descripcion>Agua Purificada</Descripcion>
+    <Unimed>Metros</Unimed>
+    <Costo>0.30</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>MAT-008</Codigo>
+    <Catalogo>0</Catalogo>
+    <Descripcion>Mano de Obra</Descripcion>
+    <Unimed>Metros</Unimed>
+    <Costo>28.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPP-CA008</Codigo>
+    <Catalogo>0</Catalogo>
+    <Descripcion>Casco de seguridad TITÁN color amarillo/suspensión ratchet</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>39.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPP-CA010</Codigo>
+    <Catalogo>0</Catalogo>
+    <Descripcion>Casco de seguridad TITÁN color naranja/suspensión ratchet</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>39.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPP-CA009</Codigo>
+    <Catalogo>0</Catalogo>
+    <Descripcion>Casco de seguridad TITÁN color azul/suspensión ratchet</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>39.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPP-VIS003</Codigo>
+    <Catalogo>OJ15A</Catalogo>
+    <Descripcion>Lente presidente claro antiempaño</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>12.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPP-VIS018</Codigo>
+    <Catalogo>OJ01</Catalogo>
+    <Descripcion>Lente claro policarbonato alto impacto antiempaño</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>10.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPP-RES002</Codigo>
+    <Catalogo>R01</Catalogo>
+    <Descripcion>Mascarilla tipo copa caja azul económica 50 unidades</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>21.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPP-RES003</Codigo>
+    <Catalogo>R112</Catalogo>
+    <Descripcion>Respirador de 2 filtros  (sin filtro), marca TITÁN</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>30.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPP-CA002</Codigo>
+    <Catalogo>K01</Catalogo>
+    <Descripcion>Casco de seguridad TITÁN color verde/suspensión normal</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>21.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPP-CA004</Codigo>
+    <Catalogo>K01</Catalogo>
+    <Descripcion>Casco de seguridad TITÄN color azul/suspensión normal</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>21.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPP-CA011</Codigo>
+    <Catalogo>K31</Catalogo>
+    <Descripcion>Casquillo con suspensión ratchet/repuesto para casco TITAN</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>16.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPP-PIE003</Codigo>
+    <Catalogo>P301</Catalogo>
+    <Descripcion>Botas marca Bee Work serie ares  s1 talla 40</Descripcion>
+    <Unimed>Par</Unimed>
+    <Costo>240.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPP-PIE005</Codigo>
+    <Catalogo>P301</Catalogo>
+    <Descripcion>Botas marca Bee Work serie ares  s1  talla 42</Descripcion>
+    <Unimed>Par</Unimed>
+    <Costo>240.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPP-PIE006</Codigo>
+    <Catalogo>0</Catalogo>
+    <Descripcion>Botas Berrendo dieléctricas talla 39</Descripcion>
+    <Unimed>Par</Unimed>
+    <Costo>0.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPP-PIE011</Codigo>
+    <Catalogo>P121</Catalogo>
+    <Descripcion>Botas de pvc color blanco DINOSAURIO talla 41</Descripcion>
+    <Unimed>Par</Unimed>
+    <Costo>75.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPP-PIE012</Codigo>
+    <Catalogo>P301</Catalogo>
+    <Descripcion>Botas marca Bee Work serie ares s1 talla 38</Descripcion>
+    <Unimed>Par</Unimed>
+    <Costo>240.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPP-CPO003</Codigo>
+    <Catalogo>C427V</Catalogo>
+    <Descripcion>Chaleco reflectivo tipo arnés color verde lima</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>22.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPP-CPO001</Codigo>
+    <Catalogo>C503</Catalogo>
+    <Descripcion>Chaleco reflectivo de tela naranja/tipo motorista</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>23.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPP-CPO017</Codigo>
+    <Catalogo>C514V</Catalogo>
+    <Descripcion>Chaleco reflectivo de malla color verde lima ajustable con velcro</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>22.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPP-AUD003</Codigo>
+    <Catalogo>O101</Catalogo>
+    <Descripcion>Tapón de oído  de silicón con cordel / reusable</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>3.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPP-RES006</Codigo>
+    <Catalogo>R51</Catalogo>
+    <Descripcion>Mascarilla tipo copa carbón activado sin válvula, caja 20 unidades</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>192.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPP-CA001</Codigo>
+    <Catalogo>K01</Catalogo>
+    <Descripcion>Casco de seguridad TITÁN color blanco suspensión normal</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>21.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPP-PIE007</Codigo>
+    <Catalogo>0</Catalogo>
+    <Descripcion>Botas Berrendo dieléctricas talla 40</Descripcion>
+    <Unimed>Par</Unimed>
+    <Costo>0.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPP-PIE008</Codigo>
+    <Catalogo>0</Catalogo>
+    <Descripcion>Botas Berrendo dieléctricas talla 41</Descripcion>
+    <Unimed>Par</Unimed>
+    <Costo>0.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPP-PIE010</Codigo>
+    <Catalogo>P121</Catalogo>
+    <Descripcion>Botas de pvc color blanco DINOSAURIO talla 40</Descripcion>
+    <Unimed>Par</Unimed>
+    <Costo>75.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPP-ACC002</Codigo>
+    <Catalogo>0</Catalogo>
+    <Descripcion>Lámpara para casco recargable marca Tool Craft</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>60.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPP-VIS007</Codigo>
+    <Catalogo>0</Catalogo>
+    <Descripcion>Lente sport obscuro marco negro patilla amarilla  antirayaduras</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>12.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPP-AL006</Codigo>
+    <Catalogo>0</Catalogo>
+    <Descripcion>Arnés Falltech de 1 enganche</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>290.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPP-MA009</Codigo>
+    <Catalogo>0</Catalogo>
+    <Descripcion>Guante BEST nitri pro SHOWA</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>35.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPP-CA006</Codigo>
+    <Catalogo>0</Catalogo>
+    <Descripcion>Casco de seguridad TITÄN color blanco/suspensión ratchet</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>39.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPP-AL005</Codigo>
+    <Catalogo>0</Catalogo>
+    <Descripcion>Mosquetón</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>35.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPP-AL004</Codigo>
+    <Catalogo>0</Catalogo>
+    <Descripcion>Bándola para electricista</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>0.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPP-CA007</Codigo>
+    <Catalogo>0</Catalogo>
+    <Descripcion>Casco de seguridad TITÄN color verde/suspensión ratchet</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>39.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPC-VIAL004</Codigo>
+    <Catalogo>0</Catalogo>
+    <Descripcion>Tamalera color ámbar</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>0.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>MAT-011</Codigo>
+    <Catalogo>0</Catalogo>
+    <Descripcion>Alambre de amarre</Descripcion>
+    <Unimed>Libras</Unimed>
+    <Costo>0.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPP-CA016</Codigo>
+    <Catalogo>0</Catalogo>
+    <Descripcion>Casco de seguridad CLIMAX color naranja/suspensión normal</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>20.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPP-VIS010</Codigo>
+    <Catalogo>OJ19A</Catalogo>
+    <Descripcion>Lente virtual claro antirayaduras marco claro</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>8.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPP-VIS031</Codigo>
+    <Catalogo>OJ104</Catalogo>
+    <Descripcion>Lente tipo motorista claro transformen cinta roja</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>36.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPP-PIE016</Codigo>
+    <Catalogo>P30136</Catalogo>
+    <Descripcion>Botas TITÁN con punta de acero talla 42</Descripcion>
+    <Unimed>Par</Unimed>
+    <Costo>230.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPP-CPO014</Codigo>
+    <Catalogo>C01</Catalogo>
+    <Descripcion>Capa de 3 piezas amarilla talla XL</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>64.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPP-CPO006</Codigo>
+    <Catalogo>C10</Catalogo>
+    <Descripcion>Capa tipo abrigo color amarillo talla L</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>56.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPP-AL001</Codigo>
+    <Catalogo>C430-4</Catalogo>
+    <Descripcion>Arnés Arseg de 4 enganches</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>385.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPP-AL002</Codigo>
+    <Catalogo>C422</Catalogo>
+    <Descripcion>Línea de vida para arnés</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>115.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPP-AL003</Codigo>
+    <Catalogo>C429</Catalogo>
+    <Descripcion>Cinturón liniero de cuero para electricista</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>350.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPP-CPO002</Codigo>
+    <Catalogo>C511</Catalogo>
+    <Descripcion>Chaleco reflectivo de malla naranja, orilla negra</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>20.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPP-CPO005</Codigo>
+    <Catalogo>C514N</Catalogo>
+    <Descripcion>Chaleco reflectivo de malla color naranja ajustable  con velcro</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>22.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPC-EX002</Codigo>
+    <Catalogo>E105</Catalogo>
+    <Descripcion>Extintores tipo ABC EXTIM-FLAM 5 libras</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>310.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPP-CPO007</Codigo>
+    <Catalogo>C10</Catalogo>
+    <Descripcion>Capa tipo abrigo color amarillo talla XL</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>56.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPP-CPO009</Codigo>
+    <Catalogo>C30</Catalogo>
+    <Descripcion>Capa tipo poncho de vinyl color naranja</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>20.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPP-CPO010</Codigo>
+    <Catalogo>C30</Catalogo>
+    <Descripcion>Capa tipo poncho de vinyl color verde esperanza</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>20.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPP-CPO011</Codigo>
+    <Catalogo>C30</Catalogo>
+    <Descripcion>Capa tipo poncho de vinyl color azul</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>20.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPP-PIE013</Codigo>
+    <Catalogo>P301</Catalogo>
+    <Descripcion>Botas marca Bee Work serie ares s1 talla 39</Descripcion>
+    <Unimed>Par</Unimed>
+    <Costo>240.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPP-CPO013</Codigo>
+    <Catalogo>C01</Catalogo>
+    <Descripcion>Capa de 3 piezas amarilla talla L</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>64.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPP-ACC003</Codigo>
+    <Catalogo>K61</Catalogo>
+    <Descripcion>Lámpara  para casco marca TITÁN</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>60.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPP-MA004</Codigo>
+    <Catalogo>G730</Catalogo>
+    <Descripcion>Guante de nitrilo flocado de 12" color verde, económico</Descripcion>
+    <Unimed>Par</Unimed>
+    <Costo>8.75</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPC-VIAL012</Codigo>
+    <Catalogo>S162</Catalogo>
+    <Descripcion>Banderín para señalización vial</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>30.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPP-MA001</Codigo>
+    <Catalogo>G213</Catalogo>
+    <Descripcion>Guante de cuero y lona reforzado palma verde</Descripcion>
+    <Unimed>Par</Unimed>
+    <Costo>19.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPC-VIAL014</Codigo>
+    <Catalogo>S61</Catalogo>
+    <Descripcion>Rollo de cinta PELIGRO color rojo</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>55.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPP-PIE015</Codigo>
+    <Catalogo>P30136</Catalogo>
+    <Descripcion>Botas TITÁN con punta de acero talla 41</Descripcion>
+    <Unimed>Par</Unimed>
+    <Costo>230.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPP-ACC001</Codigo>
+    <Catalogo>K41</Catalogo>
+    <Descripcion>Barbiquejos para fijación de casco</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>10.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPP-CA005</Codigo>
+    <Catalogo>K01</Catalogo>
+    <Descripcion>Casco de seguridad TITÄN color naranja/suspensión normal</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>21.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPP-CPO012</Codigo>
+    <Catalogo>C20</Catalogo>
+    <Descripcion>Capa tipo poncho grueso color amarillo</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>56.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPC-VIAL009</Codigo>
+    <Catalogo>S81</Catalogo>
+    <Descripcion>Rótulos de señalización varios diseños de 40*30</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>0.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPP-CA013</Codigo>
+    <Catalogo>0</Catalogo>
+    <Descripcion>Casco de seguridad CLIMAX color amarillo/suspensión normal</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>20.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>HER-028</Codigo>
+    <Catalogo>0</Catalogo>
+    <Descripcion>Polipastos de mano</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>0.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPP-MA005</Codigo>
+    <Catalogo>0</Catalogo>
+    <Descripcion>Guante tejido de palma recubierta de látex BEST skinny dip talla M</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>24.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPP-VIS006</Codigo>
+    <Catalogo>0</Catalogo>
+    <Descripcion>Gafas para soldadura autógena TITÁN</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>32.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>HER-001</Codigo>
+    <Catalogo>0</Catalogo>
+    <Descripcion>Pala cuadrada c/cabo</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>0.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>HER-002</Codigo>
+    <Catalogo>0</Catalogo>
+    <Descripcion>Pala cuadrada s/cabo</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>0.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>HER-003</Codigo>
+    <Catalogo>0</Catalogo>
+    <Descripcion>Pala redonda c/cabo</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>0.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>HER-004</Codigo>
+    <Catalogo>0</Catalogo>
+    <Descripcion>Pala redonda s/cabo</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>0.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>HER-005</Codigo>
+    <Catalogo>0</Catalogo>
+    <Descripcion>Cabo para pala</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>0.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>HER-006</Codigo>
+    <Catalogo>0</Catalogo>
+    <Descripcion>Piocha c/cabo</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>0.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>MAT-010</Codigo>
+    <Catalogo>0</Catalogo>
+    <Descripcion>Clavo de 2"</Descripcion>
+    <Unimed>Libras</Unimed>
+    <Costo>0.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>MAT-009</Codigo>
+    <Catalogo>0</Catalogo>
+    <Descripcion>Madera</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>0.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPP-CA014</Codigo>
+    <Catalogo>0</Catalogo>
+    <Descripcion>Casco de seguridad CLIMAX color gris /suspensión normal</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>20.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPP-CA017</Codigo>
+    <Catalogo>0</Catalogo>
+    <Descripcion>Casco de seguridad CLIMAX color verde/suspensión normal</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>20.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPP-VIS001</Codigo>
+    <Catalogo>OJ16</Catalogo>
+    <Descripcion>Lente presidente color ámbar antiempaño</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>12.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPP-VIS009</Codigo>
+    <Catalogo>0</Catalogo>
+    <Descripcion>Lente sport claro marco negro patilla amarilla  antirayaduras</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>13.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>HER-007</Codigo>
+    <Catalogo>0</Catalogo>
+    <Descripcion>Piocha s/cabo</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>0.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>HER-008</Codigo>
+    <Catalogo>0</Catalogo>
+    <Descripcion>Cabo para piocha</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>0.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPP-VIS004</Codigo>
+    <Catalogo>OJ11</Catalogo>
+    <Descripcion>Lente classic claro marco negro / anti rayaduras</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>6.75</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPP-VIS005</Codigo>
+    <Catalogo>OJ14</Catalogo>
+    <Descripcion>Lente presidente espejo in-out</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>12.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPP-RES001</Codigo>
+    <Catalogo>R31</Catalogo>
+    <Descripcion>Mascarilla de copa N95 caja de 20 unidades</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>85.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPC-EX003</Codigo>
+    <Catalogo>E106</Catalogo>
+    <Descripcion>Extintores tipo  ABC EXTIM-FLAM 10 libras</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>440.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPP-PIE017</Codigo>
+    <Catalogo>0</Catalogo>
+    <Descripcion>Botas de pvc  negras  DINOSAURIO talla 40</Descripcion>
+    <Unimed>Par</Unimed>
+    <Costo>53.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPP-PIE014</Codigo>
+    <Catalogo>P30136</Catalogo>
+    <Descripcion>Botas TITÁN con punta de acero talla 40</Descripcion>
+    <Unimed>Par</Unimed>
+    <Costo>230.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPP-CPO008</Codigo>
+    <Catalogo>C30</Catalogo>
+    <Descripcion>Capa tipo poncho de vinyl color rojo</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>20.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPP-AUD006</Codigo>
+    <Catalogo>O21</Catalogo>
+    <Descripcion>Orejera tipo diadema color amarillo</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>25.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPC-VIAL001</Codigo>
+    <Catalogo>S111</Catalogo>
+    <Descripcion>Cono reflectivo flexible de 18" color naranja</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>50.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPC-VIAL002</Codigo>
+    <Catalogo>S121</Catalogo>
+    <Descripcion>Cono reflectivo flexible de 28" color naranja</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>85.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPC-VIAL003</Codigo>
+    <Catalogo>S331</Catalogo>
+    <Descripcion>Batón linterna para tráfico, color naranja</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>60.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPC-VIAL005</Codigo>
+    <Catalogo>S61</Catalogo>
+    <Descripcion>Rollo de cinta PRECAUCION, 300 Mts. color amarillo</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>55.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPC-VIAL007</Codigo>
+    <Catalogo>S502</Catalogo>
+    <Descripcion>Trafi tambo de PVC reflectivo color verde, pequeño</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>348.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPC-VIAL008</Codigo>
+    <Catalogo>S900</Catalogo>
+    <Descripcion>Vialeta blanca con reflectivo rojo</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>14.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPP-PIE004</Codigo>
+    <Catalogo>P301</Catalogo>
+    <Descripcion>Botas marca Bee Work serie ares  s1 talla 41</Descripcion>
+    <Unimed>Par</Unimed>
+    <Costo>240.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPC-VIAL011</Codigo>
+    <Catalogo>S551</Catalogo>
+    <Descripcion>Malla  plástica para delimitación de áreas</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>400.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPC-VIAL013</Codigo>
+    <Catalogo>S151</Catalogo>
+    <Descripcion>Cono reflectivo flexible de 28" color verde lima</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>104.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPP-CPO004</Codigo>
+    <Catalogo>C427N</Catalogo>
+    <Descripcion>Chaleco reflectivo tipo arnés color naranja</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>22.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPC-VIAL006</Codigo>
+    <Catalogo>S501</Catalogo>
+    <Descripcion>Trafi tambo de PVC reflectivo color naranja, pequeño</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>300.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPC-VIAL010</Codigo>
+    <Catalogo>S80</Catalogo>
+    <Descripcion>Rollo de cinta  reflectiva color rojo / blanco 2" x150 pies</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>425.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPC-EX001</Codigo>
+    <Catalogo>E112</Catalogo>
+    <Descripcion>Extintores tipo ABC EXTIM-FLAM 2.5 libras</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>240.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>HER-009</Codigo>
+    <Catalogo>0</Catalogo>
+    <Descripcion>Azadón pequeño c/cabo</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>0.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>HER-010</Codigo>
+    <Catalogo>0</Catalogo>
+    <Descripcion>Azadón pequeño s/cabo</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>0.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>HER-011</Codigo>
+    <Catalogo>0</Catalogo>
+    <Descripcion>Azadón grande c/cabo</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>0.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>HER-012</Codigo>
+    <Catalogo>0</Catalogo>
+    <Descripcion>Cabo para azadón</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>0.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>HER-013</Codigo>
+    <Catalogo>0</Catalogo>
+    <Descripcion>Barretas</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>0.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>HER-014</Codigo>
+    <Catalogo>0</Catalogo>
+    <Descripcion>Almágana grande (mazo)</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>0.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>HER-015</Codigo>
+    <Catalogo>0</Catalogo>
+    <Descripcion>Carreta de mano trans-metal roja</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>0.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>HER-016</Codigo>
+    <Catalogo>0</Catalogo>
+    <Descripcion>Carreta de mano naranja</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>0.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>HER-017</Codigo>
+    <Catalogo>0</Catalogo>
+    <Descripcion>Escoba normal c/cabo</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>0.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>HER-018</Codigo>
+    <Catalogo>0</Catalogo>
+    <Descripcion>Escoba normal s/cabo</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>0.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>HER-019</Codigo>
+    <Catalogo>0</Catalogo>
+    <Descripcion>Escobón c/cabo</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>0.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>HER-020</Codigo>
+    <Catalogo>0</Catalogo>
+    <Descripcion>Cubeta grande para fundición</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>0.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>HER-021</Codigo>
+    <Catalogo>0</Catalogo>
+    <Descripcion>Cubeta pequeña para fundición</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>0.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>HER-022</Codigo>
+    <Catalogo>0</Catalogo>
+    <Descripcion>Manguera amarilla 5mts 2" c/accesorios p/bomba</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>0.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>HER-023</Codigo>
+    <Catalogo>0</Catalogo>
+    <Descripcion>Manguera verde 10mts 2" c/accesorios p/bomba</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>0.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>HER-024</Codigo>
+    <Catalogo>0</Catalogo>
+    <Descripcion>Eslingas pequeñas</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>0.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>HER-025</Codigo>
+    <Catalogo>0</Catalogo>
+    <Descripcion>Costales vacíos nuevos</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>0.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>HER-026</Codigo>
+    <Catalogo>0</Catalogo>
+    <Descripcion>Cilindros plásticos para muestras de concreto</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>0.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>HER-027</Codigo>
+    <Catalogo>0</Catalogo>
+    <Descripcion>Polipastos de 3 tons</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>0.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>HER-029</Codigo>
+    <Catalogo>0</Catalogo>
+    <Descripcion>Rastas de tubo cuadrado para cuneta</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>0.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>HER-030</Codigo>
+    <Catalogo>0</Catalogo>
+    <Descripcion>Pines de metal para lazo en alturas</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>0.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>HER-034</Codigo>
+    <Catalogo>0</Catalogo>
+    <Descripcion>Tricket  tipo lagarto  de 5 tons completo</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>0.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>HER-035</Codigo>
+    <Catalogo>0</Catalogo>
+    <Descripcion>Juego de cables para corriente de batería</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>0.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>HER-037</Codigo>
+    <Catalogo>0</Catalogo>
+    <Descripcion>Lona verde</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>0.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>HER-038</Codigo>
+    <Catalogo>0</Catalogo>
+    <Descripcion>Trípode para auto-nivelante</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>0.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>HER-039</Codigo>
+    <Catalogo>0</Catalogo>
+    <Descripcion>Barra medidora para topografía</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>0.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>HER-040</Codigo>
+    <Catalogo>0</Catalogo>
+    <Descripcion>Inflador de pie marca Truper con varias válvulas</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>0.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>HER-041</Codigo>
+    <Catalogo>0</Catalogo>
+    <Descripcion>Manguera transparente para nivel</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>0.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>HCM-001</Codigo>
+    <Catalogo>0</Catalogo>
+    <Descripcion>Martillo de bola</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>0.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>HCM-002</Codigo>
+    <Catalogo>0</Catalogo>
+    <Descripcion>Llave stilson 24"</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>0.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>HCM-003</Codigo>
+    <Catalogo>0</Catalogo>
+    <Descripcion>Aflójalo todo</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>0.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>HCM-004</Codigo>
+    <Catalogo>0</Catalogo>
+    <Descripcion>Cepillo de alambre</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>0.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>HCM-005</Codigo>
+    <Catalogo>0</Catalogo>
+    <Descripcion>Bote de grasa</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>0.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>HCM-006</Codigo>
+    <Catalogo>0</Catalogo>
+    <Descripcion>Pintura gris bote pequeño</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>0.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>HCM-007</Codigo>
+    <Catalogo>0</Catalogo>
+    <Descripcion>Llave para candela</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>0.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>HCM-008</Codigo>
+    <Catalogo>0</Catalogo>
+    <Descripcion>Remachadoras</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>0.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>HCM-009</Codigo>
+    <Catalogo>0</Catalogo>
+    <Descripcion>Brocha de 2 1/2"</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>0.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>HCM-010</Codigo>
+    <Catalogo>0</Catalogo>
+    <Descripcion>Disco para pulir</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>0.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>HCM-011</Codigo>
+    <Catalogo>0</Catalogo>
+    <Descripcion>Disco para metal de 9" marca De-Walt</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>0.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>HCM-012</Codigo>
+    <Catalogo>0</Catalogo>
+    <Descripcion>Filtro para concretera</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>0.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>HCM-013</Codigo>
+    <Catalogo>0</Catalogo>
+    <Descripcion>Llave de cola corona #10</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>0.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>HCM-014</Codigo>
+    <Catalogo>0</Catalogo>
+    <Descripcion>Espiga eléctrica trifásica industrial</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>0.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>HCM-015</Codigo>
+    <Catalogo>0</Catalogo>
+    <Descripcion>Espiga eléctrica pequeña de hule de 3 entradas</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>0.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>HCM-016</Codigo>
+    <Catalogo>0</Catalogo>
+    <Descripcion>Llaves paa seguros</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>0.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>HER-032</Codigo>
+    <Catalogo>0</Catalogo>
+    <Descripcion>Juego de tijeras para andamios</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>0.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>HER-033</Codigo>
+    <Catalogo>0</Catalogo>
+    <Descripcion>Pines para ensamblar andamios</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>0.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>HER-036</Codigo>
+    <Catalogo>0</Catalogo>
+    <Descripcion>Jalador trasero para camión sin bola</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>0.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>HCM-017</Codigo>
+    <Catalogo>0</Catalogo>
+    <Descripcion>Tomacorriente de sobre poner</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>0.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>HCM-018</Codigo>
+    <Catalogo>0</Catalogo>
+    <Descripcion>Bola de 2.5 lbs. para remolque</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>0.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>HCM-019</Codigo>
+    <Catalogo>0</Catalogo>
+    <Descripcion>Pistola engrasadora pequeña</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>0.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>HCM-020</Codigo>
+    <Catalogo>0</Catalogo>
+    <Descripcion>Conectores de metal para mangura de 2"</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>0.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>HCM-021</Codigo>
+    <Catalogo>0</Catalogo>
+    <Descripcion>Abrazaderas industriales a presión p/manguera</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>0.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>HCM-022</Codigo>
+    <Catalogo>0</Catalogo>
+    <Descripcion>Sierra para caladora</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>0.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>HCM-023</Codigo>
+    <Catalogo>0</Catalogo>
+    <Descripcion>Extensión de llave exagonal</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>0.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>HCM-024</Codigo>
+    <Catalogo>0</Catalogo>
+    <Descripcion>Vicera para soldar</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>0.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>MAQ-002</Codigo>
+    <Catalogo>0</Catalogo>
+    <Descripcion>Bomba de 3" motor a gasolina para agua</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>0.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>MAQ-004</Codigo>
+    <Catalogo>0</Catalogo>
+    <Descripcion>Bomba de 1 hp eléctrica para pozo</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>0.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>MAQ-003</Codigo>
+    <Catalogo>0</Catalogo>
+    <Descripcion>Bomba de 1/2 hp eléctrica para pozo</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>0.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>MAQ-005</Codigo>
+    <Catalogo>0</Catalogo>
+    <Descripcion>Auto niveante marca Nikon</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>0.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>MAQ-006</Codigo>
+    <Catalogo>0</Catalogo>
+    <Descripcion>GPS  de mano</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>0.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>MAQ-007</Codigo>
+    <Catalogo>0</Catalogo>
+    <Descripcion>Mezcladora para concreto con motor a gasolina</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>0.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>MAQ-008</Codigo>
+    <Catalogo>0</Catalogo>
+    <Descripcion>Carreta de mano Belle con motor gasolina 4 llantas</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>0.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>LUB-001</Codigo>
+    <Catalogo>0</Catalogo>
+    <Descripcion>Aceite SAE 30</Descripcion>
+    <Unimed>Galones</Unimed>
+    <Costo>0.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>LUB-002</Codigo>
+    <Catalogo>0</Catalogo>
+    <Descripcion>Aceite 15W 30</Descripcion>
+    <Unimed>Litros</Unimed>
+    <Costo>0.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>LUB-003</Codigo>
+    <Catalogo>0</Catalogo>
+    <Descripcion>Aceite 2 tiempos STHIL</Descripcion>
+    <Unimed>Litros</Unimed>
+    <Costo>0.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>LUB-004</Codigo>
+    <Catalogo>0</Catalogo>
+    <Descripcion>Caneca vacía de 5 gls color azul para gasolina</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>0.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>LUB-005</Codigo>
+    <Catalogo>0</Catalogo>
+    <Descripcion>Caneca vacía de 5 gls color blanco para diesel</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>0.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>MAT-012</Codigo>
+    <Catalogo>0</Catalogo>
+    <Descripcion>Clavo de 2 1/2"</Descripcion>
+    <Unimed>Libras</Unimed>
+    <Costo>0.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>MAT-013</Codigo>
+    <Catalogo>0</Catalogo>
+    <Descripcion>Clavo de 3"</Descripcion>
+    <Unimed>Libras</Unimed>
+    <Costo>0.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>MAT-014</Codigo>
+    <Catalogo>0</Catalogo>
+    <Descripcion>Tornillo para lámina</Descripcion>
+    <Unimed>Libras</Unimed>
+    <Costo>0.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>MAT-015</Codigo>
+    <Catalogo>0</Catalogo>
+    <Descripcion>Tubo pvc de 8" 180 psi</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>0.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>MAT-016</Codigo>
+    <Catalogo>0</Catalogo>
+    <Descripcion>Codo de 8" a 45°</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>0.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>MAT-017</Codigo>
+    <Catalogo>0</Catalogo>
+    <Descripcion>Cable forrado eléctrico tsj triplex</Descripcion>
+    <Unimed>Metro 3</Unimed>
+    <Costo>0.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>MAT-018</Codigo>
+    <Catalogo>0</Catalogo>
+    <Descripcion>Nylon negro doble ancho</Descripcion>
+    <Unimed>Metros</Unimed>
+    <Costo>0.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>MAT-020</Codigo>
+    <Catalogo>0</Catalogo>
+    <Descripcion>Duelas para sercha</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>0.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>MAT-021</Codigo>
+    <Catalogo>0</Catalogo>
+    <Descripcion>Reglas delgadas para pines de sercha</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>0.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>MAT-022</Codigo>
+    <Catalogo>0</Catalogo>
+    <Descripcion>Pita Truper color rojo para chapeadora  (1 rollo)</Descripcion>
+    <Unimed>Metros</Unimed>
+    <Costo>0.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>MAT-023</Codigo>
+    <Catalogo>0</Catalogo>
+    <Descripcion>Regla</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>0.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>MAT-024</Codigo>
+    <Catalogo>0</Catalogo>
+    <Descripcion>Costal con cascos y chalecos usados (viejos)</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>0.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>MAQ-001</Codigo>
+    <Catalogo>0</Catalogo>
+    <Descripcion>Bomba de 2" motor a gasolina para agua</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>0.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>HER-031</Codigo>
+    <Catalogo>0</Catalogo>
+    <Descripcion>Cubos para andamios (dos secciones)</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>0.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPP-CA015</Codigo>
+    <Catalogo>0</Catalogo>
+    <Descripcion>Casco de seguridad CLIMAX color blanco/suspensión normal</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>20.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPP-CA018</Codigo>
+    <Catalogo>0</Catalogo>
+    <Descripcion>Casco de seguridad CLIMAX color rojo/suspensión normal</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>20.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPP-CA019</Codigo>
+    <Catalogo>0</Catalogo>
+    <Descripcion>Casco de seguridad CLIMAX color azul/suspensión normal</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>20.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPP-CA020</Codigo>
+    <Catalogo>0</Catalogo>
+    <Descripcion>Casco de seguridad CLIMAX color amarillo/suspensión ratchet</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>20.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPP-CA021</Codigo>
+    <Catalogo>0</Catalogo>
+    <Descripcion>Casco de seguridad CLIMAX color blanco/suspensión ratchet</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>38.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPP-CA022</Codigo>
+    <Catalogo>0</Catalogo>
+    <Descripcion>Casco de seguridad CLIMAX color naranja/suspensión ratchet</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>38.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPP-CA023</Codigo>
+    <Catalogo>0</Catalogo>
+    <Descripcion>Casco de seguridad CLIMAX color verde/suspensión ratchet</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>38.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPP-CA024</Codigo>
+    <Catalogo>0</Catalogo>
+    <Descripcion>Casco de seguridad CLIMAX color rojo/suspensión ratchet</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>38.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPP-CA025</Codigo>
+    <Catalogo>0</Catalogo>
+    <Descripcion>Casco de seguridad CLIMAX color azul/suspensión ratchet</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>38.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPP-RES010</Codigo>
+    <Catalogo>R21</Catalogo>
+    <Descripcion>Mascarilla rectangular de 4 pitas, 50 unidades</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>20.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPP-CPO018</Codigo>
+    <Catalogo>C234</Catalogo>
+    <Descripcion>Traje para protección de químicos y fosa séptica/REUSABLE</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>100.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPP-CA030</Codigo>
+    <Catalogo>0</Catalogo>
+    <Descripcion>Casco de protección DIAMOND V color rojo con cinta reflectiva</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>76.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPP-CA026</Codigo>
+    <Catalogo>0</Catalogo>
+    <Descripcion>Casco de seguridad CLIMAX color gris/suspensión ratchet</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>38.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPP-CA027</Codigo>
+    <Catalogo>0</Catalogo>
+    <Descripcion>Casquillo con suspensión normal/repuesto para casco CLIMAX</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>7.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPP-CA028</Codigo>
+    <Catalogo>0</Catalogo>
+    <Descripcion>Casquillo con suspensión ratchet/repuesto para casco CLIMAX</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>13.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPP-CA029</Codigo>
+    <Catalogo>0</Catalogo>
+    <Descripcion>Casco de protección DIAMOND V color blanco con cinta reflectiva</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>76.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPP-CA032</Codigo>
+    <Catalogo>0</Catalogo>
+    <Descripcion>Casco de protección DIAMOND V color naranja con cinta relfectiva</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>76.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPP-CA031</Codigo>
+    <Catalogo>0</Catalogo>
+    <Descripcion>Casco de protección DIAMOND V color amarillo con cinta reflectiva</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>76.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPP-CA033</Codigo>
+    <Catalogo>0</Catalogo>
+    <Descripcion>Casco de protección DIAMOND V color azul con cinta reflectiva</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>76.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPP-CA034</Codigo>
+    <Catalogo>0</Catalogo>
+    <Descripcion>Casco de protección DIAMOND V color verde con cinta reflectiva</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>76.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPP-CA039</Codigo>
+    <Catalogo>0</Catalogo>
+    <Descripcion>Careta para soldar / sombra abatible</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>29.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPP-MA011</Codigo>
+    <Catalogo>0</Catalogo>
+    <Descripcion>Guante de nitrilo flocado SHOWA 747 de 18" color verde</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>46.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPP-RES009</Codigo>
+    <Catalogo>0</Catalogo>
+    <Descripcion>Mascarilla N95 8210 3M sin válvula caja 20 Un.</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>121.63</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPP-MA015</Codigo>
+    <Catalogo>0</Catalogo>
+    <Descripcion>Guante de hilo con látex naranja Delta Plus</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>14.96</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPP-MA016</Codigo>
+    <Catalogo>0</Catalogo>
+    <Descripcion>Guante de cuero para soldar con kevlar rojo Delta Plus</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>38.95</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPP-VIS002</Codigo>
+    <Catalogo>OJ201</Catalogo>
+    <Descripcion>Lente sport claro marco blanco patilla roja antirayadura</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>12.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPP-VIS011</Codigo>
+    <Catalogo>OJ112</Catalogo>
+    <Descripcion>Monogafa ventilación directa antiempaño</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>12.75</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPP-VIS012</Codigo>
+    <Catalogo>OJ102</Catalogo>
+    <Descripcion>Monogafa ventilación indirecta antiempaño</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>12.75</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPP-VIS013</Codigo>
+    <Catalogo>K212</Catalogo>
+    <Descripcion>Vidrio rectangular oscuro 2x4 No.12 para soldador</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>5.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPP-CA038</Codigo>
+    <Catalogo>K113</Catalogo>
+    <Descripcion>Visor claro 8x12 plástico para careta de esmerilar</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>20.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPP-CA040</Codigo>
+    <Catalogo>K115</Catalogo>
+    <Descripcion>Porta visor  click de metal para casco</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>40.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPP-CA041</Codigo>
+    <Catalogo>K211</Catalogo>
+    <Descripcion>Redecillas blancas 21" 100 piezas</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>45.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPP-CA042</Codigo>
+    <Catalogo>K212</Catalogo>
+    <Descripcion>Redecillas negras 21" 100 piezas</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>45.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPP-CA043</Codigo>
+    <Catalogo>K201</Catalogo>
+    <Descripcion>Cofias amarillas 21" 100 piezas</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>20.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPP-CA044</Codigo>
+    <Catalogo>K201</Catalogo>
+    <Descripcion>Cofias celeste 21"  100 piezas</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>20.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPP-PIE019</Codigo>
+    <Catalogo>P01</Catalogo>
+    <Descripcion>Cobertor de zapatos con antideslizante, 100 unidades</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>55.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPP-PIE022</Codigo>
+    <Catalogo>P30136</Catalogo>
+    <Descripcion>Botas TITÁN con punta de acero talla 36</Descripcion>
+    <Unimed>Par</Unimed>
+    <Costo>230.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPP-PIE023</Codigo>
+    <Catalogo>P30136</Catalogo>
+    <Descripcion>Botas TITÁN con punta de acero talla 37</Descripcion>
+    <Unimed>Par</Unimed>
+    <Costo>230.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPP-PIE024</Codigo>
+    <Catalogo>P30136</Catalogo>
+    <Descripcion>Botas TITÁN con punta de acero talla 38</Descripcion>
+    <Unimed>Par</Unimed>
+    <Costo>230.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPP-PIE021</Codigo>
+    <Catalogo>P111</Catalogo>
+    <Descripcion>Botas de PVC negras punta de acero, marca PREDATOR</Descripcion>
+    <Unimed>Par</Unimed>
+    <Costo>155.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPP-AL007</Codigo>
+    <Catalogo>0</Catalogo>
+    <Descripcion>Kit de arnés de 4 puntos con absorbedor de impactos CLIMAX</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>400.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPP-CPO020</Codigo>
+    <Catalogo>C211</Catalogo>
+    <Descripcion>Gabacha PVC 35 mm, color blanco, corta</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>35.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPP-CPO022</Codigo>
+    <Catalogo>C201</Catalogo>
+    <Descripcion>Gabacha de cuero TITÁN para soldar</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>60.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPP-CPO023</Codigo>
+    <Catalogo>C511V</Catalogo>
+    <Descripcion>Chaleco relefectivo de malla verde orilla negra</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>18.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPP-CPO024</Codigo>
+    <Catalogo>C401</Catalogo>
+    <Descripcion>Cinturón para carga de velcro y tirantes color negro talla M</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>49.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPP-MA017</Codigo>
+    <Catalogo>G141</Catalogo>
+    <Descripcion>Guante económico Nitri Pro con chispas</Descripcion>
+    <Unimed>Par</Unimed>
+    <Costo>12.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPP-VIAL016</Codigo>
+    <Catalogo>S331</Catalogo>
+    <Descripcion>Batón linterna para tráfico, color verde</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>60.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPP-PIE027</Codigo>
+    <Catalogo>P500</Catalogo>
+    <Descripcion>Botas TITÁN dieléctricas con cinta reflectiva, color café</Descripcion>
+    <Unimed>Par</Unimed>
+    <Costo>290.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPP-PIE018</Codigo>
+    <Catalogo>0</Catalogo>
+    <Descripcion>Botas de pvc negras DINOSAURIO talla 41</Descripcion>
+    <Unimed>Par</Unimed>
+    <Costo>53.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPP-PIE020</Codigo>
+    <Catalogo>P02</Catalogo>
+    <Descripcion>Polainas de cuero marca TITÁN</Descripcion>
+    <Unimed>Par</Unimed>
+    <Costo>50.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPP-MA013</Codigo>
+    <Catalogo>0</Catalogo>
+    <Descripcion>Guante sintético con látex negro TITÁN</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>14.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPP-VIS0016</Codigo>
+    <Catalogo>OJ60</Catalogo>
+    <Descripcion>Lente de soldador visor móvil, color verde</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>34.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPP-VIS014</Codigo>
+    <Catalogo>OJ104</Catalogo>
+    <Descripcion>Lente tipo motorista oscuro transformer cinta roja</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>36.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPP-VIS017</Codigo>
+    <Catalogo>OJ51</Catalogo>
+    <Descripcion>Lente de soldador redondo, color negro</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>14.25</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPP-RES011</Codigo>
+    <Catalogo>R11</Catalogo>
+    <Descripcion>Mascarilla rectangular, 50 unidades</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>18.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPP-RES012</Codigo>
+    <Catalogo>R121</Catalogo>
+    <Descripcion>Mascarilla base plástica azul</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>5.50</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPP-CA036</Codigo>
+    <Catalogo>K03</Catalogo>
+    <Descripcion>Casco de protección ala ancha color azul TITÁN</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>38.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPP-CA046</Codigo>
+    <Catalogo>SOL31</Catalogo>
+    <Descripcion>Careta para soldar con visor móvil TITÁN</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>35.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPP-CPO0027</Codigo>
+    <Catalogo>C01</Catalogo>
+    <Descripcion>Capa de 3 piezas amarilla talla M</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>64.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPP-CPO021</Codigo>
+    <Catalogo>C211</Catalogo>
+    <Descripcion>Gabacha PVC 35 mm, color amarillo, corta</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>35.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPP-CPO026</Codigo>
+    <Catalogo>C502</Catalogo>
+    <Descripcion>Chaleco reflectivo de tela naranja</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>21.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPP-CPO027</Codigo>
+    <Catalogo>C01</Catalogo>
+    <Descripcion>Capa de 3 piezas amarilla talla M</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>64.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPP-MA018</Codigo>
+    <Catalogo>G182</Catalogo>
+    <Descripcion>Guante touch baño de nitrilo gris TITÁN</Descripcion>
+    <Unimed>Par</Unimed>
+    <Costo>10.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPP-MA019</Codigo>
+    <Catalogo>G81</Catalogo>
+    <Descripcion>Guante de cuero largo (media manga) gris</Descripcion>
+    <Unimed>Par</Unimed>
+    <Costo>24.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPP-MA014</Codigo>
+    <Catalogo>G180</Catalogo>
+    <Descripcion>Guante flex tuff de hilo con látex verde TITÁN</Descripcion>
+    <Unimed>Par</Unimed>
+    <Costo>10.50</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPP-MA023</Codigo>
+    <Catalogo>G403</Catalogo>
+    <Descripcion>Guante de látex Frutti, 100 unidades</Descripcion>
+    <Unimed>Par</Unimed>
+    <Costo>38.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPP-MA024</Codigo>
+    <Catalogo>G170</Catalogo>
+    <Descripcion>Guante Nitti Gritty TITÁN</Descripcion>
+    <Unimed>Par</Unimed>
+    <Costo>16.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPC-VIAL020</Codigo>
+    <Catalogo>S32</Catalogo>
+    <Descripcion>Rollo de cinta antideslizante de 2"x 150 pies amarillo/negro</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>280.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPP-MA027</Codigo>
+    <Catalogo>G201</Catalogo>
+    <Descripcion>Guante de cuero corto, color gris</Descripcion>
+    <Unimed>Par</Unimed>
+    <Costo>21.00</Costo>
+  </Producto>
   <Producto>
     <Codigo>EPP-MA028</Codigo>
     <Catalogo>G221</Catalogo>
@@ -24,13 +1841,1789 @@
     <Unimed>Par</Unimed>
     <Costo>34.00</Costo>
   </Producto>
-
   <Producto>
-    <Codigo>MAT-017</Codigo>
-    <Catalogo></Catalogo>
-    <Descripcion>Cable forrado eléctrico tsj triplex</Descripcion>
-    <Unimed>Libras</Unimed>
-    <Costo>4.75</Costo>
+    <Codigo>EPP-MA026</Codigo>
+    <Catalogo>G100</Catalogo>
+    <Descripcion>Guante dieléctrico, color blanco (clase 1, 2, 3, 4 )</Descripcion>
+    <Unimed>Par</Unimed>
+    <Costo>485.00</Costo>
   </Producto>
-
+  <Producto>
+    <Codigo>EPC-VIAL021</Codigo>
+    <Catalogo>S42</Catalogo>
+    <Descripcion>Rollo de cinta adhesiva color amarillo/negro</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>34.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPC-VIAL024</Codigo>
+    <Catalogo>S41</Catalogo>
+    <Descripcion>Rollo de cinta adhesiva color rojo/blanco, 20 Mts.</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>34.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPC-VIAL025</Codigo>
+    <Catalogo>S61</Catalogo>
+    <Descripcion>Rollo de cinta amarillo/negro de 100 Mts.</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>40.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPP-VIAL018</Codigo>
+    <Catalogo>S160</Catalogo>
+    <Descripcion>Barras unión TITÁN  a 2.5 Mts retractable</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>75.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPP-VIAL019</Codigo>
+    <Catalogo>S31</Catalogo>
+    <Descripcion>Rollo de cinta antideslizante de 2" x150 pies color negro</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>280.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPP-RES013</Codigo>
+    <Catalogo>R31-1</Catalogo>
+    <Descripcion>Mascarilla de copa N95 con válvula, caja 10 unidades</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>75.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPP-MA032</Codigo>
+    <Catalogo>G51</Catalogo>
+    <Descripcion>Guante industrial látex corrugado 15" color negro</Descripcion>
+    <Unimed>Par</Unimed>
+    <Costo>51.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPC-VIAL026</Codigo>
+    <Catalogo>0</Catalogo>
+    <Descripcion>Boya de metal amarilla, con 4 pernos de instalación</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>70.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPC-VIAL028</Codigo>
+    <Catalogo>0</Catalogo>
+    <Descripcion>Vialeta de poliuretano reflectivo grado diamante, amarilla</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>15.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPC-VIAL029</Codigo>
+    <Catalogo>0</Catalogo>
+    <Descripcion>Bloque adhesivo bitumen para vialeta, rend. 90V rocoso-110 V liso</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>550.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPC-VIAL034</Codigo>
+    <Catalogo>0</Catalogo>
+    <Descripcion>Separador vial marca TALISHTE, color naranja</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>542.85</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>TAP-TA005</Codigo>
+    <Catalogo>0</Catalogo>
+    <Descripcion>Reactor ortotodilina de 240 ML para análisis de agua</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>85.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPP-VIS024</Codigo>
+    <Catalogo>0</Catalogo>
+    <Descripcion>Lente dinamic claro, marco transparente patilla celeste</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>16.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPP-VIS025</Codigo>
+    <Catalogo>0</Catalogo>
+    <Descripcion>Lente dinamic claro, marco transparente patilla azul</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>16.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPP-VIS022</Codigo>
+    <Catalogo>0</Catalogo>
+    <Descripcion>Lente flex oscuro, marco negro</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>16.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPP-PIE009</Codigo>
+    <Catalogo>0</Catalogo>
+    <Descripcion>Botas Tiger talla 37 punta de acero</Descripcion>
+    <Unimed>Par</Unimed>
+    <Costo>230.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPP-VIS008</Codigo>
+    <Catalogo>OJ202</Catalogo>
+    <Descripcion>Lente sport obscuro marco blanco, patilla roja antirayaduras</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>12.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>ALP-PM001</Codigo>
+    <Catalogo>0</Catalogo>
+    <Descripcion>Poste de madera para alumbrado público</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>600.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPP-VIS015</Codigo>
+    <Catalogo>OJ13A</Catalogo>
+    <Descripcion>Lente presidente oscuro antiempaño</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>12.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPP-CPO025</Codigo>
+    <Catalogo>C411</Catalogo>
+    <Descripcion>Cinturón para carga de cuero, color natural, talla S</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>65.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPP-VIS019</Codigo>
+    <Catalogo>OJ01</Catalogo>
+    <Descripcion>Lente claro policarbonato  alto impacto antirayadura</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>8.50</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPP-VIS020</Codigo>
+    <Catalogo>OJ32</Catalogo>
+    <Descripcion>Lente dinamic espejo, marco transparente patilla verde</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>16.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPP-VIS023</Codigo>
+    <Catalogo>OJ31</Catalogo>
+    <Descripcion>Lente racing espejo, marco negro / gris</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>16.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPP-VIS026</Codigo>
+    <Catalogo>OJ34</Catalogo>
+    <Descripcion>Lente racing oscuro, marco negro / gris</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>16.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPP-RES014</Codigo>
+    <Catalogo>R206</Catalogo>
+    <Descripcion>Filtro para  químicos tóxicos 156D para pinturas</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>10.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPP-RES016</Codigo>
+    <Catalogo>R301</Catalogo>
+    <Descripcion>Mascarilla full face con filtro multipropósito, marca CLIMAX</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>750.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPP-CA048</Codigo>
+    <Catalogo>K451</Catalogo>
+    <Descripcion>Cobertor de barba, caja de 100 piezas</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>25.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPP-CA003</Codigo>
+    <Catalogo>K01</Catalogo>
+    <Descripcion>Casco de seguridad TITÁN color amarillo/suspensión normal</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>21.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPP-MA020</Codigo>
+    <Catalogo>G801</Catalogo>
+    <Descripcion>Guante de hilo algodón tejido TITÁN, color blanco</Descripcion>
+    <Unimed>Par</Unimed>
+    <Costo>3.50</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPP-MA021</Codigo>
+    <Catalogo>G11</Catalogo>
+    <Descripcion>Guante látex hogar corrugado, color amarillo/blanco</Descripcion>
+    <Unimed>Par</Unimed>
+    <Costo>15.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPP-MA022</Codigo>
+    <Catalogo>G301</Catalogo>
+    <Descripcion>Guante de vinyl sin talco TITÁN,  100 unidades</Descripcion>
+    <Unimed>Par</Unimed>
+    <Costo>24.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPP-MA030</Codigo>
+    <Catalogo>G31</Catalogo>
+    <Descripcion>Guante industrial látex liso 15", color negro</Descripcion>
+    <Unimed>Par</Unimed>
+    <Costo>45.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPP-MA029</Codigo>
+    <Catalogo>0</Catalogo>
+    <Descripcion>Guante de nitrilo color verde, forrado, 18"</Descripcion>
+    <Unimed>Par</Unimed>
+    <Costo>65.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPP-MA031</Codigo>
+    <Catalogo>G41</Catalogo>
+    <Descripcion>Guante industrial látex liso 18" color negro</Descripcion>
+    <Unimed>Par</Unimed>
+    <Costo>63.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPP-MA034</Codigo>
+    <Catalogo>G402</Catalogo>
+    <Descripcion>Guante de nitrilo azul FRUTTI, 100 piezas, deshechable</Descripcion>
+    <Unimed>Par</Unimed>
+    <Costo>40.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPC-VIAL030</Codigo>
+    <Catalogo>S409</Catalogo>
+    <Descripcion>Lámpara solar para cono, color rojo, led 5 funciones TITÁN</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>170.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPC-VIAL031</Codigo>
+    <Catalogo>S567</Catalogo>
+    <Descripcion>Barrera modular de polietileno, base de caucho 1.95 Mts de largo</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>500.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPC-VIAL032</Codigo>
+    <Catalogo>S565A</Catalogo>
+    <Descripcion>Barrera extendible de plástico, 2.00 Mts de largo, color amarilla</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>360.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPC-VIAL033</Codigo>
+    <Catalogo>S565N</Catalogo>
+    <Descripcion>Barrera extendible de plástico, con estuche, 2.00 Mt de largo, color naranj</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>570.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPP-VIS016</Codigo>
+    <Catalogo>OJ105</Catalogo>
+    <Descripcion>Monogafa para casco motorista</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>37.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>TAP-TA011</Codigo>
+    <Catalogo>0</Catalogo>
+    <Descripcion>Hipoclorito de Sodio al 10%, tonel de 55 galones (no incluye envase)</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>500.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPP-VIS027</Codigo>
+    <Catalogo>0</Catalogo>
+    <Descripcion>Lente classic oscuro, marco negro antirayaduras</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>6.80</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>TAP-TA006</Codigo>
+    <Catalogo>0</Catalogo>
+    <Descripcion>Arandelas de plomo OXICLORO</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>15.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>TAP-TA007</Codigo>
+    <Catalogo>0</Catalogo>
+    <Descripcion>Arandelas de plomo PROCHEINSA</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>38.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>TAP-TA008</Codigo>
+    <Catalogo>0</Catalogo>
+    <Descripcion>Carga de gas cloro, cilindro de 100 libras</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>533.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>TAP-TA002</Codigo>
+    <Catalogo>0</Catalogo>
+    <Descripcion>Carga de gas cloro, cilindro de 150 libras</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>800.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>TAP-TA009</Codigo>
+    <Catalogo>0</Catalogo>
+    <Descripcion>Carga de gas cloro, cilindro de 125 libras</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>666.25</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPC-VIAL035</Codigo>
+    <Catalogo>0</Catalogo>
+    <Descripcion>Rótulo de señalización varios diseños, de 20"x35"</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>19.02</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPC-TA001</Codigo>
+    <Catalogo>0</Catalogo>
+    <Descripcion>Sulfato de Aluminio tipo "A" saco de 25 Kg para limpieza agua potable</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>78.75</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPP-MA036</Codigo>
+    <Catalogo>0</Catalogo>
+    <Descripcion>Guante de piel y carnaza combinado marca TITÁN</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>27.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPP-VIS029</Codigo>
+    <Catalogo>OJ19A</Catalogo>
+    <Descripcion>Lente virtual claro, antiempaño, TITÁN</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>11.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPPVIS-028</Codigo>
+    <Catalogo>OJ12</Catalogo>
+    <Descripcion>Lente classic claro, marco negro antiempaño</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>9.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPP-CA012</Codigo>
+    <Catalogo>K51</Catalogo>
+    <Descripcion>Casquillo con suspensión normal/repuesto para casco TITAN</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>12.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPP-CPO028</Codigo>
+    <Catalogo>C201</Catalogo>
+    <Descripcion>Gabacha PVC 35 mm, color blanco, 1.10 de largo</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>45.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPP-CPO029</Codigo>
+    <Catalogo>C201</Catalogo>
+    <Descripcion>Gabacha PVC 35 mm, color amarillo, 1.10 de largo</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>45.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPP-CPO031</Codigo>
+    <Catalogo>C411</Catalogo>
+    <Descripcion>Cinturón para carga de cuero, color natural, talla L</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>65.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPP-CPO032</Codigo>
+    <Catalogo>C411</Catalogo>
+    <Descripcion>Cinturón para carga de cuero, color natural, talla XL</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>65.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>TAP-TA015</Codigo>
+    <Catalogo>0</Catalogo>
+    <Descripcion>Hipoclorito de Calcio al 65%,  cubeta de 45 Kg (granulado)</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>878.24</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPP-CPO033</Codigo>
+    <Catalogo>C401</Catalogo>
+    <Descripcion>Cinturón para carga de velcro y tirantes color negro talla S</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>49.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPP-CPO034</Codigo>
+    <Catalogo>C403</Catalogo>
+    <Descripcion>Cinturón para carga de velcro y tirantes naranja talla S</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>49.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPP-CPO035</Codigo>
+    <Catalogo>C403</Catalogo>
+    <Descripcion>Cinturón para carga de velcro y tirantes naranja talla M</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>49.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPP-CPO036</Codigo>
+    <Catalogo>C403</Catalogo>
+    <Descripcion>Cinturón para carga de velcro y tirantes naranja talla L</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>49.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPP-CPO038</Codigo>
+    <Catalogo>C403</Catalogo>
+    <Descripcion>Cinturón para carga de velcro y tirantes naranja talla XL</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>49.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPP-CPO040</Codigo>
+    <Catalogo>C211</Catalogo>
+    <Descripcion>Gabacha PVC 35 mm. color azul. corta</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>35.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPP-CPO041</Codigo>
+    <Catalogo>C501</Catalogo>
+    <Descripcion>Chaleco reflectivo de tela verde</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>21.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPP-MA035</Codigo>
+    <Catalogo>G211</Catalogo>
+    <Descripcion>Guante de cuero y lona reforzado marca TITÁN</Descripcion>
+    <Unimed>Par</Unimed>
+    <Costo>12.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPC-LIM002</Codigo>
+    <Catalogo>L21</Catalogo>
+    <Descripcion>Mopa de 36 TITÁN, repuesto</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>80.75</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPP-CPO030</Codigo>
+    <Catalogo>C411</Catalogo>
+    <Descripcion>Cinturón para carga de cuero, color natural, talla M</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>65.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPP-PIE026</Codigo>
+    <Catalogo>0</Catalogo>
+    <Descripcion>Botas TITÁN Best, económica, punta de acero</Descripcion>
+    <Unimed>Par</Unimed>
+    <Costo>215.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>TAP-TA004</Codigo>
+    <Catalogo>0</Catalogo>
+    <Descripcion>Dosificador gas cloro, Advance 480, incluye accesorios e instalación</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>9300.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>TAP-TA010</Codigo>
+    <Catalogo>0</Catalogo>
+    <Descripcion>Policloruro de Aluminio PAC, saco de 25 Kg</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>170.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>TAP-TA012</Codigo>
+    <Catalogo>0</Catalogo>
+    <Descripcion>Hipoclorito de Sodio al 3%, galón, incluye envase (cloro líquido)</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>8.15</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>TAP-TA013</Codigo>
+    <Catalogo>0</Catalogo>
+    <Descripcion>Hipoclorito de Sodio al 5%, galón, incluye envase (cloro líquido)</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>9.50</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>TAP-TA014</Codigo>
+    <Catalogo>0</Catalogo>
+    <Descripcion>Hipoclorito de Calcio al 65%, cubeta de 250 tabletas</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>1200.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>TAP-TA003</Codigo>
+    <Catalogo>0</Catalogo>
+    <Descripcion>Cilindro vacío  150 lbs  gas cloro marca INFLEX prueba hidrostática</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>6000.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>TAP-TA016</Codigo>
+    <Catalogo>0</Catalogo>
+    <Descripcion>Tricloro granular, cubeta 25 Kg.</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>500.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>TAP-TA017</Codigo>
+    <Catalogo>0</Catalogo>
+    <Descripcion>Tricloro en tableta, cubeta 250 unidades, al 90%</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>1100.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPP-CA050</Codigo>
+    <Catalogo>0</Catalogo>
+    <Descripcion>Cobertor de cuello naranja con cinta reflectiva</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>30.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>TAP-TA018</Codigo>
+    <Catalogo>0</Catalogo>
+    <Descripcion>Libras de gas cloro</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>5.33</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPP-VIS030</Codigo>
+    <Catalogo>OJ52</Catalogo>
+    <Descripcion>Lente de soldador con clip</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>0.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPP-VIS032</Codigo>
+    <Catalogo>OJ18</Catalogo>
+    <Descripcion>Lente sport oscuro patilla naranja</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>15.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPP-VIS033</Codigo>
+    <Catalogo>OJ36</Catalogo>
+    <Descripcion>Lente dinamic oscuro patilla amarilla</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>0.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPP-VIS034</Codigo>
+    <Catalogo>OJ36</Catalogo>
+    <Descripcion>Lente dinamic claro, marco negro</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>0.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPP-VIS035</Codigo>
+    <Catalogo>OJ33</Catalogo>
+    <Descripcion>Lente dinamic pink, marco blanco patilla azul</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>0.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPP-RES017</Codigo>
+    <Catalogo>R205</Catalogo>
+    <Descripcion>Filtro para gases y químicos tóxicos 156C</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>10.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPP-CA051</Codigo>
+    <Catalogo>K21</Catalogo>
+    <Descripcion>Casco tipo carnicero (azul, blanco, amarillo)</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>21.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPP-AL010</Codigo>
+    <Catalogo>C430-6</Catalogo>
+    <Descripcion>Arnés dieléctrico Arseg</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>635.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPP-AL015</Codigo>
+    <Catalogo>S71</Catalogo>
+    <Descripcion>Eslingas de poliester para carga y remolque de 4ton x 5M</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>575.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPP-MA038</Codigo>
+    <Catalogo>G202</Catalogo>
+    <Descripcion>Guante de cuero para soldar gris económico</Descripcion>
+    <Unimed>Par</Unimed>
+    <Costo>38.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPP-MA039</Codigo>
+    <Catalogo>G01</Catalogo>
+    <Descripcion>Guante doméstico de látex amarillo</Descripcion>
+    <Unimed>Par</Unimed>
+    <Costo>5.75</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPP-MA040</Codigo>
+    <Catalogo>G81</Catalogo>
+    <Descripcion>Guante de neopreno chenmaster, azul-negro</Descripcion>
+    <Unimed>Par</Unimed>
+    <Costo>13.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPP-MA041</Codigo>
+    <Catalogo>G320</Catalogo>
+    <Descripcion>Guante de polietileno descartable TITÁN caja 100 Un.</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>5.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPP-MA043</Codigo>
+    <Catalogo>G204</Catalogo>
+    <Descripcion>Guanteletas de cuero gris</Descripcion>
+    <Unimed>Par</Unimed>
+    <Costo>25.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPP-MA044</Codigo>
+    <Catalogo>G160</Catalogo>
+    <Descripcion>Mangas de cuero TITÁN</Descripcion>
+    <Unimed>Par</Unimed>
+    <Costo>52.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPP-MA045</Codigo>
+    <Catalogo>G6781R</Catalogo>
+    <Descripcion>Guante para alta temperatura corto, color negro</Descripcion>
+    <Unimed>Par</Unimed>
+    <Costo>125.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPP-MA046</Codigo>
+    <Catalogo>G6781R</Catalogo>
+    <Descripcion>Guante para alta temperatura largo, color negro</Descripcion>
+    <Unimed>Par</Unimed>
+    <Costo>210.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPP-MA047</Codigo>
+    <Catalogo>G601</Catalogo>
+    <Descripcion>Guante de malla de acero anticorte 5 dedos, unidad</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>635.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPC-VIAL040</Codigo>
+    <Catalogo>S560</Catalogo>
+    <Descripcion>Cono flexible reflectivo 36" color verde lima</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>145.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPC-LIM001</Codigo>
+    <Catalogo>L21</Catalogo>
+    <Descripcion>Mopa de 24" TITÁN,  repuesto</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>56.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPC-LIM004</Codigo>
+    <Catalogo>H01</Catalogo>
+    <Descripcion>Halador de agua de 30" con maneral</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>82.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPC-LIM005</Codigo>
+    <Catalogo>L100</Catalogo>
+    <Descripcion>Basurero de acero de 7 litros</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>96.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPC-LIM007</Codigo>
+    <Catalogo>L32</Catalogo>
+    <Descripcion>Set de mopa y palo de 24" de lujo TITÁN</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>120.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPC-LIM008</Codigo>
+    <Catalogo>L32</Catalogo>
+    <Descripcion>Set de mopa y palo de 36" de lujo TITÁN</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>136.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPC-LIM009</Codigo>
+    <Catalogo>L200</Catalogo>
+    <Descripcion>Basurero plástico cuadrado con rodos y pedestal</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>550.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPC-LIM010</Codigo>
+    <Catalogo>L51</Catalogo>
+    <Descripcion>Balde exprimidor de 35 Lts. color amarillo</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>450.50</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPC-LIM012</Codigo>
+    <Catalogo>L01</Catalogo>
+    <Descripcion>Rótulo de piso mojado, color amarillo</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>55.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPC-LIM013</Codigo>
+    <Catalogo>L70</Catalogo>
+    <Descripcion>Secador de manos automático color plateado</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>1690.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPC-LIM014</Codigo>
+    <Catalogo>L90</Catalogo>
+    <Descripcion>Dispensador de jabón sencillo transparente</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>60.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPC-LIM015</Codigo>
+    <Catalogo>L80</Catalogo>
+    <Descripcion>Dispensador de jabón sencillo cromado</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>210.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPC-LIM016</Codigo>
+    <Catalogo>L60</Catalogo>
+    <Descripcion>Dispensador de papel Jumbo Roll color blanco</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>135.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPP-AL012</Codigo>
+    <Catalogo>C430-8</Catalogo>
+    <Descripcion>Absorbedor de impacto Arseg</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>400.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPP-CPO042</Codigo>
+    <Catalogo>C201</Catalogo>
+    <Descripcion>Gabacha PVC 35 mm. color azul, 1.10 de largo</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>45.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPP-RES008</Codigo>
+    <Catalogo>0</Catalogo>
+    <Descripcion>Mascarilla N95 8210V 3M con válvula caja 10 Un.</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>81.50</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPC-ACC024</Codigo>
+    <Catalogo>E6001</Catalogo>
+    <Descripcion>Estación de candados</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>0.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPC-ACC025</Codigo>
+    <Catalogo>L701</Catalogo>
+    <Descripcion>Medias absorbentes de aceite</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>0.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPP-MA010</Codigo>
+    <Catalogo>0</Catalogo>
+    <Descripcion>Guante para protección de químicos de neopreno SHOWA/ reusable</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>14.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPP-MA002</Codigo>
+    <Catalogo>0</Catalogo>
+    <Descripcion>Guante de cuero y lona sencillo Delta Plus</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>11.88</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPP-AUD004</Codigo>
+    <Catalogo>O11</Catalogo>
+    <Descripcion>Orejera para casco</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>40.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPP-AUD005</Codigo>
+    <Catalogo>O01</Catalogo>
+    <Descripcion>Orejera tipo diadema color rojo</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>25.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPC-ACC026</Codigo>
+    <Catalogo>L702</Catalogo>
+    <Descripcion>Rollos absorbentes de aceite</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>0.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPP-MA003</Codigo>
+    <Catalogo>G813</Catalogo>
+    <Descripcion>Guante de hilo  algodón con puntos pvc doble palma</Descripcion>
+    <Unimed>Par</Unimed>
+    <Costo>5.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPC-LIM019</Codigo>
+    <Catalogo>L300</Catalogo>
+    <Descripcion>Aspiradora industrial de 15 ltros</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>0.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPC-ACC028</Codigo>
+    <Catalogo>E09</Catalogo>
+    <Descripcion>Ducha de pedestal y lava ojos</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>0.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPC-EX005</Codigo>
+    <Catalogo>E110</Catalogo>
+    <Descripcion>Detector de humo</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>0.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPC-ACC029</Codigo>
+    <Catalogo>E02</Catalogo>
+    <Descripcion>Botiquín primeros auxilios para 50 personas</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>0.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPP-RES007</Codigo>
+    <Catalogo>R51-1</Catalogo>
+    <Descripcion>Mascarilla tipo copa N95 carbón activado con válvula, caja 10 unidades</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>144.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPP-CA035</Codigo>
+    <Catalogo>K03</Catalogo>
+    <Descripcion>Casco de protección ala ancha color blanco TITÁN</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>38.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPP-PIE001</Codigo>
+    <Catalogo>P101</Catalogo>
+    <Descripcion>Botas de pvc negras TORO talla 40</Descripcion>
+    <Unimed>Par</Unimed>
+    <Costo>55.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPP-PIE025</Codigo>
+    <Catalogo>P30136</Catalogo>
+    <Descripcion>Botas TITÁN con punta de acero talla 39</Descripcion>
+    <Unimed>Par</Unimed>
+    <Costo>230.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPP-PIE029</Codigo>
+    <Catalogo>P30136</Catalogo>
+    <Descripcion>Botas TITÁN con punta de acero talla 43</Descripcion>
+    <Unimed>Par</Unimed>
+    <Costo>230.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPP-CPO016</Codigo>
+    <Catalogo>C401</Catalogo>
+    <Descripcion>Cinturón para carga de velcro y tirantes color negro talla XL</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>49.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPP-CA052</Codigo>
+    <Catalogo>0</Catalogo>
+    <Descripcion>Careta para esmerilar visor claro 8 x12</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>42.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPP-RES004</Codigo>
+    <Catalogo>R101</Catalogo>
+    <Descripcion>Respirador de 1 filtro (sin filtro),  marca TITÁN</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>28.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPP-RES005</Codigo>
+    <Catalogo>R203</Catalogo>
+    <Descripcion>Filtro para gases y químicos tóxicos 156A</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>10.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPP-CA037</Codigo>
+    <Catalogo>K114</Catalogo>
+    <Descripcion>Cabezal de careta para esmerilar</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>15.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPP-CA045</Codigo>
+    <Catalogo>K201</Catalogo>
+    <Descripcion>Cofias blancas 21" 100 piezas</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>20.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPP-CA047</Codigo>
+    <Catalogo>K01</Catalogo>
+    <Descripcion>Casco de Seguridad TITÁN color rojo/suspensión normal</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>21.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPP-CA049</Codigo>
+    <Catalogo>K03</Catalogo>
+    <Descripcion>Casco de protección ala ancha color rojo TITÁN</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>38.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPP-CA053</Codigo>
+    <Catalogo>K1122</Catalogo>
+    <Descripcion>Careta para soldar tormoplástica visor móvil oscuro</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>32.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPP-CPO015</Codigo>
+    <Catalogo>C401</Catalogo>
+    <Descripcion>Cinturón para carga de velcro y tirantes color negro talla  L</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>49.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPC-ACC021</Codigo>
+    <Catalogo>S641</Catalogo>
+    <Descripcion>Espejo convexo</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>0.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPC-ACC022</Codigo>
+    <Catalogo>S641</Catalogo>
+    <Descripcion>Espejo de inspección</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>0.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPP-AL008</Codigo>
+    <Catalogo>C430</Catalogo>
+    <Descripcion>Arnés Arseg de 1 enganche</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>296.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPP-MA050</Codigo>
+    <Catalogo>G301</Catalogo>
+    <Descripcion>Guante de vinyl con talco TITÁN caja 100 unidades</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>24.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPC-EX007</Codigo>
+    <Catalogo>E20</Catalogo>
+    <Descripcion>Recarga para extintor ABC 20 libras</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>250.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPC-ACC034</Codigo>
+    <Catalogo>0</Catalogo>
+    <Descripcion>Alfombra antideslizante DURAFLEX ancho 1.40Mts, económica</Descripcion>
+    <Unimed>Yarda</Unimed>
+    <Costo>70.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPP-058</Codigo>
+    <Catalogo>K01</Catalogo>
+    <Descripcion>Casco de Seguridad TITÁN, color gris/suspensión normal</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>21.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>TAP-TA019</Codigo>
+    <Catalogo>0</Catalogo>
+    <Descripcion>Bomba de agua tipo JET 1.5 hp, marca TRUPER</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>950.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPP-AL018</Codigo>
+    <Catalogo>0</Catalogo>
+    <Descripcion>Escalera de aluminio de 2 bandas  8´ marca TRUPER</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>475.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPP-AL020</Codigo>
+    <Catalogo>0</Catalogo>
+    <Descripcion>Escalera de aluminio de 2 bandas 6´ marca TRUPER</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>340.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPP-CPO048</Codigo>
+    <Catalogo>C10</Catalogo>
+    <Descripcion>Capa tipo abrigo color amarillo talla M</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>56.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPC-VIAL058</Codigo>
+    <Catalogo>S121N</Catalogo>
+    <Descripcion>Cono reflectivo flexible de 18" naranja base negra</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>55.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPC-VIAL059</Codigo>
+    <Catalogo>S121N</Catalogo>
+    <Descripcion>Cono reflectivo flexible de 28" naranja base negra</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>90.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPC-VIAL060</Codigo>
+    <Catalogo>S121N</Catalogo>
+    <Descripcion>Cono reflectivo flexible de 36" naranja base negra</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>145.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPC-EX006</Codigo>
+    <Catalogo>E107</Catalogo>
+    <Descripcion>Extintores tipo ABC EXTIM-FLAM 20 libras</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>660.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPP-RES019</Codigo>
+    <Catalogo>0</Catalogo>
+    <Descripcion>Mascarilla full face marca 3M  (sin filtro)</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>1385.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPP-RES020</Codigo>
+    <Catalogo>0</Catalogo>
+    <Descripcion>Filtro 6003  para mascarilla full face 3M</Descripcion>
+    <Unimed>Par</Unimed>
+    <Costo>168.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPC-VIAL061</Codigo>
+    <Catalogo>epc</Catalogo>
+    <Descripcion>Rótulo señal obligatoria 68.5cm x45.6cm símbolo ALTO rojo FF000 blanco FFFF</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>63.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPC-VIAL062</Codigo>
+    <Catalogo>epc</Catalogo>
+    <Descripcion>Rótulo señal obligatoria 68.5cmx45.6cm símbolo NO HAY PASO rojo FF000 blanc</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>63.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPP-CPO049</Codigo>
+    <Catalogo>0</Catalogo>
+    <Descripcion>Capa impermeable  de 3 piezas color azul</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>215.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPP-CPO050</Codigo>
+    <Catalogo>0</Catalogo>
+    <Descripcion>Capa tipo abrigo color negro</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>199.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPP-CPO051</Codigo>
+    <Catalogo>C10</Catalogo>
+    <Descripcion>Capa tipo abrigo color amarillo talla XXL</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>56.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPP-PIE035</Codigo>
+    <Catalogo>P101</Catalogo>
+    <Descripcion>Botas de pvc negras TORO talla 37</Descripcion>
+    <Unimed>Par</Unimed>
+    <Costo>55.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPP-PIE036</Codigo>
+    <Catalogo>P101</Catalogo>
+    <Descripcion>Botas de pvc negras TORO talla 38</Descripcion>
+    <Unimed>Par</Unimed>
+    <Costo>55.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPC-EX008</Codigo>
+    <Catalogo>E20</Catalogo>
+    <Descripcion>Recarga para extintor ABC 5 libras</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>75.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPP-MA051</Codigo>
+    <Catalogo>G107</Catalogo>
+    <Descripcion>Guante de cuero protector de guante dieléctrico</Descripcion>
+    <Unimed>Par</Unimed>
+    <Costo>290.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPP-CPO052</Codigo>
+    <Catalogo>C30</Catalogo>
+    <Descripcion>Capa tipo poncho de vinyl color amarillo</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>18.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPC-VIAL057</Codigo>
+    <Catalogo>S184</Catalogo>
+    <Descripcion>Túmulo plástico amarillo / negro con reflectivo 1 Mt. no incluye pernos</Descripcion>
+    <Unimed>Metro</Unimed>
+    <Costo>190.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPP-PIE037</Codigo>
+    <Catalogo>P101</Catalogo>
+    <Descripcion>Botas de pvc negras TORO talla 42</Descripcion>
+    <Unimed>Par</Unimed>
+    <Costo>55.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPP-CPO054</Codigo>
+    <Catalogo>0</Catalogo>
+    <Descripcion>Rodillera de plástico con remaches TITÁN</Descripcion>
+    <Unimed>Par</Unimed>
+    <Costo>50.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>TAP-TA022</Codigo>
+    <Catalogo>0</Catalogo>
+    <Descripcion>Hipoclorito de Sodio al 12%, tonel 55 galones (no incluye envase)</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>600.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>TAP-TA021</Codigo>
+    <Catalogo>0</Catalogo>
+    <Descripcion>Hipoclorito de Sodio al 5%, tonel 55 galones (no incluye envase)</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>400.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPP-PIE040</Codigo>
+    <Catalogo>0</Catalogo>
+    <Descripcion>Botas de PVC negras con punta de acero TITÁN</Descripcion>
+    <Unimed>Par</Unimed>
+    <Costo>104.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>TAP-TA020</Codigo>
+    <Catalogo>0</Catalogo>
+    <Descripcion>Inyector de equipo de gas de solución ADVANCE 480</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>4200.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPP-MA055</Codigo>
+    <Catalogo>G100</Catalogo>
+    <Descripcion>Guante dieléctrico látex clase 0 (500 a1000 voltios)</Descripcion>
+    <Unimed>Par</Unimed>
+    <Costo>420.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>TAP-TA023</Codigo>
+    <Catalogo>0</Catalogo>
+    <Descripcion>Válvula para cilindro de gas cloro</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>950.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPP-AL011</Codigo>
+    <Catalogo>C424</Catalogo>
+    <Descripcion>Absorbedor de impacto punto de anclaje</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>400.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPP-CPO039</Codigo>
+    <Catalogo>C211</Catalogo>
+    <Descripcion>Gabacha PVC 35 mm. color verde, corta</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>35.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPP-AUD001</Codigo>
+    <Catalogo>O112</Catalogo>
+    <Descripcion>Tapón de oído  de silicón con cordel y caja /reusable</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>3.40</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPP-AUD002</Codigo>
+    <Catalogo>O122</Catalogo>
+    <Descripcion>Tapón de oído  de espuma y cordel / desechable</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>2.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPP-CA058</Codigo>
+    <Catalogo>k01</Catalogo>
+    <Descripcion>Casco de Seguridad TITÁN, color gris/suspensión normal</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>21.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPP-VIAL056</Codigo>
+    <Catalogo>S502XL</Catalogo>
+    <Descripcion>Trafitambo verde EXTRA GRANDE 3 cintas reflectivas</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>400.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPP-AL019</Codigo>
+    <Catalogo>0</Catalogo>
+    <Descripcion>Escalera de aluminio de 2 bandas 7´ marca TRUPER</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>375.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPP-PIE033</Codigo>
+    <Catalogo>P101</Catalogo>
+    <Descripcion>Botas de pvc negras  TORO talla 36</Descripcion>
+    <Unimed>Par</Unimed>
+    <Costo>55.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPC-EX009</Codigo>
+    <Catalogo>E20</Catalogo>
+    <Descripcion>Recarga para extintor ABC 2.5 libras</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>35.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPP-CPO053</Codigo>
+    <Catalogo>C30</Catalogo>
+    <Descripcion>Capa tipo poncho de vinyl color transparente</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>18.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPP-MA052</Codigo>
+    <Catalogo>0</Catalogo>
+    <Descripcion>Guante recubierto de nitrilo negro, multiflex SAFETY</Descripcion>
+    <Unimed>Par</Unimed>
+    <Costo>8.50</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPP-PIE038</Codigo>
+    <Catalogo>0</Catalogo>
+    <Descripcion>Tenis TITÁN color café con cinta reflectiva, punta de acero</Descripcion>
+    <Unimed>Par</Unimed>
+    <Costo>240.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPP-MA012</Codigo>
+    <Catalogo>G140</Catalogo>
+    <Descripcion>Guante económico Nitri Pro liso</Descripcion>
+    <Unimed>Par</Unimed>
+    <Costo>11.50</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPP-MA025</Codigo>
+    <Catalogo>G107</Catalogo>
+    <Descripcion>Guante de cuero, protector de guante dieléctrico</Descripcion>
+    <Unimed>Par</Unimed>
+    <Costo>290.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPP-MA033</Codigo>
+    <Catalogo>G61</Catalogo>
+    <Descripcion>Guante industrial látex corrugado 18" color negro</Descripcion>
+    <Unimed>Par</Unimed>
+    <Costo>63.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPP-AL017</Codigo>
+    <Catalogo>C430-3</Catalogo>
+    <Descripcion>Arnés Arseg de 3 enganches</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>330.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPP-CA059</Codigo>
+    <Catalogo>K03</Catalogo>
+    <Descripcion>Casco de protección ala ancha color blanco, suspensión ratchet</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>85.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPP-PIE034</Codigo>
+    <Catalogo>P101</Catalogo>
+    <Descripcion>Botas de pvc negras TORO talla 39</Descripcion>
+    <Unimed>Par</Unimed>
+    <Costo>55.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPP-AL021</Codigo>
+    <Catalogo>0</Catalogo>
+    <Descripcion>Arnés CLIMAX trópico de 4 argollas</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>200.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPP-MA053</Codigo>
+    <Catalogo>0</Catalogo>
+    <Descripcion>Guante poliester alta visibilidad recubierto de látex negro  SAFETY</Descripcion>
+    <Unimed>Par</Unimed>
+    <Costo>11.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPP-PIE039</Codigo>
+    <Catalogo>0</Catalogo>
+    <Descripcion>Tenis TITÁN color gris, punta de acero</Descripcion>
+    <Unimed>Par</Unimed>
+    <Costo>240.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPP-MA042</Codigo>
+    <Catalogo>G81</Catalogo>
+    <Descripcion>Guante de cuero corto, reforzado doble palma, color gris</Descripcion>
+    <Unimed>Par</Unimed>
+    <Costo>38.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPP-MA037</Codigo>
+    <Catalogo>G301</Catalogo>
+    <Descripcion>Guante de vinyl con talco TITÁN 100 unidades</Descripcion>
+    <Unimed>Par</Unimed>
+    <Costo>24.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPP-MA054</Codigo>
+    <Catalogo>0</Catalogo>
+    <Descripcion>Guante algodón alta visibilidad palma látex negro TB</Descripcion>
+    <Unimed>Par</Unimed>
+    <Costo>15.76</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPP-VIS036</Codigo>
+    <Catalogo>0</Catalogo>
+    <Descripcion>Lente tipo motorista claro marca RADNOR cinta negra</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>61.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPC-VIAL027</Codigo>
+    <Catalogo>S621</Catalogo>
+    <Descripcion>Boya de polipropileno amarillo con ojo de gato, 4 pernos instalación</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>75.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPP-RES018</Codigo>
+    <Catalogo>0</Catalogo>
+    <Descripcion>Respirador 3M media cara 6200/6001 filtro, kit completo</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>285.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPP-VIAL055</Codigo>
+    <Catalogo>S501XL</Catalogo>
+    <Descripcion>Trafitambo naranja EXTRA GRANDE 3 cintas reflectivas</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>400.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPP-VIS037</Codigo>
+    <Catalogo>0</Catalogo>
+    <Descripcion>Lente tipo motorista espejo in out marca RADNOR cinta  negra</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>68.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPC-VIAL039</Codigo>
+    <Catalogo>S560</Catalogo>
+    <Descripcion>Cono flexible reflectivo 36" color naranja</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>140.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPP-RES015</Codigo>
+    <Catalogo>R208</Catalogo>
+    <Descripcion>Filtro para químicos tóxicos 156F para agricltura</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>15.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPP-VIS038</Codigo>
+    <Catalogo>0</Catalogo>
+    <Descripcion>Lente sobre anteojo claro marca DIAMOND</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>20.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPP-PIE032</Codigo>
+    <Catalogo>0</Catalogo>
+    <Descripcion>Bota VANVIEN Borsegui Intrepid talla 36</Descripcion>
+    <Unimed>Par</Unimed>
+    <Costo>450.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPP-VIAL017</Codigo>
+    <Catalogo>S13</Catalogo>
+    <Descripcion>Linterna de mano luz LED marca POWER TECH, color negro</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>95.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPP-VIS039</Codigo>
+    <Catalogo>0</Catalogo>
+    <Descripcion>Lente sobre anteojo oscuro marca DIAMOND</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>20.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPC-LIM003</Codigo>
+    <Catalogo>H01</Catalogo>
+    <Descripcion>Halador de agua de 22" con maneral</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>75.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPC-VIAL054</Codigo>
+    <Catalogo>0</Catalogo>
+    <Descripcion>Separador vial marca TALISHTE color verde lima</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>556.50</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPC-LIM011</Codigo>
+    <Catalogo>L40</Catalogo>
+    <Descripcion>Pala plástica color negro</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>75.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPP-CA054</Codigo>
+    <Catalogo>K118</Catalogo>
+    <Descripcion>Careta para soldar termoplástica visor móvil con mesh</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>0.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPP-CA055</Codigo>
+    <Catalogo>K112</Catalogo>
+    <Descripcion>Visor verde 8 x 12  plástico para careta de esmerilar</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>0.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPP-CA056</Codigo>
+    <Catalogo>K212</Catalogo>
+    <Descripcion>Vidrio redondo para soldar No.5</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>0.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPP-CA057</Codigo>
+    <Catalogo>K212</Catalogo>
+    <Descripcion>Vidrio para soldador 2 x 4 No. 12</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>5.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPP-AL016</Codigo>
+    <Catalogo>C431</Catalogo>
+    <Descripcion>Línea de vida para arnés tipo Y color amarillo</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>0.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPP-CPO019</Codigo>
+    <Catalogo>C303</Catalogo>
+    <Descripcion>Traje  polipropileno para protección de químicos y fosa séptica/DESECHABLE</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>28.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPP-CPO043</Codigo>
+    <Catalogo>C231L</Catalogo>
+    <Descripcion>Bata descartable blanca (M, L, XL)</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>8.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPP-CPO045</Codigo>
+    <Catalogo>E201</Catalogo>
+    <Descripcion>Capucha con visor de kevlar aluminizado</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>3100.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPP-CPO046</Codigo>
+    <Catalogo>E202</Catalogo>
+    <Descripcion>Chaqueta kevlar aluminizado</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>2375.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPP-AUD007</Codigo>
+    <Catalogo>O121</Catalogo>
+    <Descripcion>Tapón de oído rojo de espuma sin cordel</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>0.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPP-MA048</Codigo>
+    <Catalogo>G02</Catalogo>
+    <Descripcion>Guante clorinado de látex azul</Descripcion>
+    <Unimed>Par</Unimed>
+    <Costo>0.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPC-VIAL041</Codigo>
+    <Catalogo>S182</Catalogo>
+    <Descripcion>Topes para estacionamiento TITÁN L 43 x AN 15 x AL 10 Cms.</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>250.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPC-VIAL043</Codigo>
+    <Catalogo>S701</Catalogo>
+    <Descripcion>Triángulo grande con estuche, reflectivo</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>0.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPC-VIAL044</Codigo>
+    <Catalogo>S701</Catalogo>
+    <Descripcion>Triángulo pequeño reflectivo</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>0.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPC-VIAL047</Codigo>
+    <Catalogo>S410</Catalogo>
+    <Descripcion>Lámpara solar para cono LED, luz blanca</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>85.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPP-CPO044</Codigo>
+    <Catalogo>C234</Catalogo>
+    <Descripcion>Bata descartable para médico de polipropileno</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>11.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPP-AL013</Codigo>
+    <Catalogo>C430-7</Catalogo>
+    <Descripcion>Línea de lazo Arseg</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>300.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPP-AL014</Codigo>
+    <Catalogo>C43010</Catalogo>
+    <Descripcion>Absorbedor de impacto tipo Y Arseg</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>700.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPP-CPO047</Codigo>
+    <Catalogo>C504</Catalogo>
+    <Descripcion>Chaleco de tela con ziper y bolsa color naranja</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>29.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPP-MA049</Codigo>
+    <Catalogo>G747</Catalogo>
+    <Descripcion>Guante de nitrilo flocado de 18", color verde</Descripcion>
+    <Unimed>Par</Unimed>
+    <Costo>14.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPC-VIAL045</Codigo>
+    <Catalogo>S185</Catalogo>
+    <Descripcion>Cuña de hule para estacionamiento color negro L24xA20xAL17 cms</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>250.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPC-VIAL046</Codigo>
+    <Catalogo>S506</Catalogo>
+    <Descripcion>Boya de vidrio</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>0.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPC-VIAL048</Codigo>
+    <Catalogo>S405</Catalogo>
+    <Descripcion>Lámpara solar para cono LED, luz roja</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>0.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPC-VIAL049</Codigo>
+    <Catalogo>S803</Catalogo>
+    <Descripcion>Pánel reflectivo</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>165.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPC-VIAL050</Codigo>
+    <Catalogo>K650</Catalogo>
+    <Descripcion>Cadena plástica</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>0.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPC-VIAL051</Codigo>
+    <Catalogo>S310</Catalogo>
+    <Descripcion>Lámpara revolvente, tamaleras</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>325.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPC-VIAL052</Codigo>
+    <Catalogo>S301</Catalogo>
+    <Descripcion>Lámpara de emergencia</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>300.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPC-VIAL053</Codigo>
+    <Catalogo>S161</Catalogo>
+    <Descripcion>Rollo de banderolas tipo triángulo color amarillo 100 Mts.</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>136.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPP-VIAL042</Codigo>
+    <Catalogo>S570</Catalogo>
+    <Descripcion>Delineador vial poste alto 1.19 mts. naranja</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>165.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPC-LIM017</Codigo>
+    <Catalogo>L40</Catalogo>
+    <Descripcion>Trapeador plástico color amarillo</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>45.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPC-LIM018</Codigo>
+    <Catalogo>L100</Catalogo>
+    <Descripcion>Señal de piso mojado</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>55.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPC-EX004</Codigo>
+    <Catalogo>E20</Catalogo>
+    <Descripcion>Recarga para extintor ABC 10 libras</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>120.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPC-ACC019</Codigo>
+    <Catalogo>E11</Catalogo>
+    <Descripcion>Ducha lava ojos de acero inoxidable</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>4720.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPC-ACC020</Codigo>
+    <Catalogo>E12</Catalogo>
+    <Descripcion>Lava ojos acero inoxidable</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>2250.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPC-ACC027</Codigo>
+    <Catalogo>E11</Catalogo>
+    <Descripcion>Ducha lava ojos de acero galvanizado</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>3000.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPC-ACC030</Codigo>
+    <Catalogo>E01</Catalogo>
+    <Descripcion>Botiquín de primeros auxilios para 25 personas</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>0.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPC-ACC031</Codigo>
+    <Catalogo>OJ211</Catalogo>
+    <Descripcion>Repuesto líquido lava ojos</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>0.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPC-ACC032</Codigo>
+    <Catalogo>OJ201</Catalogo>
+    <Descripcion>Lava ojos portátil</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>0.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPC-ACC033</Codigo>
+    <Catalogo>S500</Catalogo>
+    <Descripcion>Alfombra antifatiga de 1 x 1 Mt</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>295.00</Costo>
+  </Producto>
+  <Producto>
+    <Codigo>EPP-ACC026</Codigo>
+    <Catalogo>E07</Catalogo>
+    <Descripcion>Estación de lava ojos fija con lavabo verde plástico</Descripcion>
+    <Unimed>Unidad</Unimed>
+    <Costo>1450.00</Costo>
+  </Producto>
 </Producto-List>
